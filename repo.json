@@ -4,7 +4,7 @@
     "Name": "The GreenZone",
     "InternalName": "FCMetrics",
     "AssemblyVersion": "0.1.32.0",
-    "Description": "Records observed Company Credits totals and displays them as a graph. Use /fcmetrics to open the window.",
+    "Description": "Records observed Company Credits totals and displays them as a graph, progress rings, and optional overlay. Use /fcmetrics to open the window.",
     "ApplicableVersion": "any",
     "Tags": [
       "free company",
@@ -25,6 +25,6 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Ninethirty77/the-greenzone-repo/main/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Ninethirty77/the-greenzone-repo/main/latest.zip",
     "RepoUrl": "https://github.com/Ninethirty77/the-greenzone-repo",
-    "LastUpdate": "1779452641"
+    "LastUpdate": "1779454398"
   }
 ]
