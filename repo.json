@@ -3,9 +3,9 @@
     "Author": "Ninethirty77",
     "Name": "The GreenZone",
     "InternalName": "FCMetrics",
-    "AssemblyVersion": "0.1.45.0",
+    "AssemblyVersion": "0.1.46.0",
     "Description": "Records observed Company Credits totals and shows weekly GC Seals tier progression, FC progress rings, and an optional overlay. Use /fcmetrics to open the window.",
-    "Changelog": "Added the plugin version to the main window title.\nAligned the FC target ring and progress text higher.\nSlimmed and tightened tier progress bars.\nShortened the target panel height.\nDisplayed the character name without the world in gold.",
+    "Changelog": "Moved the FC target ring back down so it no longer overlaps the target value.",
     "ApplicableVersion": "any",
     "Tags": [
       "free company",
@@ -26,6 +26,6 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Ninethirty77/the-greenzone-repo/main/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Ninethirty77/the-greenzone-repo/main/latest.zip",
     "RepoUrl": "https://github.com/Ninethirty77/the-greenzone-repo",
-    "LastUpdate": "1779622152"
+    "LastUpdate": "1779622537"
   }
 ]
