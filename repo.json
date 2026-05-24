@@ -3,9 +3,9 @@
     "Author": "Ninethirty77",
     "Name": "The GreenZone",
     "InternalName": "FCMetrics",
-    "AssemblyVersion": "0.1.62.0",
+    "AssemblyVersion": "0.1.63.0",
     "Description": "Records observed Company Credits totals and shows weekly GC Seals tier progression, FC progress rings, and an optional overlay. Use /fcmetrics to open the window.",
-    "Changelog": "Recent updates:\n- FC target progress now uses shared weekly target data so everyone sees the same FC progress.\n- Added phone-friendly shared week/base updates through GitHub Actions.\n- Prevented weekly FC target progress from rebasing to later samples and appearing to go backwards.\n- Fixed GC Seal tracking for Priority Seal Allowance bonus chat messages.\n- Removed FC name display and unused FC-name reading logic.\n- Simplified the main window so the weekly reset bar appears first.\n- Moved FC totals, recorded time, shared week base, estimated FC credits, player name, and overlay button into the FC target panel.\n- Tier rows now show cleaner Tier labels, gold text, and hover-to-reveal Gil rewards.\n- Updated FC credit labels and the GreenZone-active FC target ring color.",
+    "Changelog": "Reward display update:\n- Completed tier bars now turn green and show the current Gil reward directly.\n- The overlay current reward text now has a helper bubble explaining Monday night delivery and Gwen friend-list requirements.",
     "ApplicableVersion": "any",
     "Tags": [
       "free company",
@@ -26,6 +26,6 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Ninethirty77/the-greenzone-repo/main/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Ninethirty77/the-greenzone-repo/main/latest.zip",
     "RepoUrl": "https://github.com/Ninethirty77/the-greenzone-repo",
-    "LastUpdate": "1779659405"
+    "LastUpdate": "1779666901"
   }
 ]
