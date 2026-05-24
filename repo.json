@@ -3,9 +3,9 @@
     "Author": "Ninethirty77",
     "Name": "The GreenZone",
     "InternalName": "FCMetrics",
-    "AssemblyVersion": "0.1.38.0",
+    "AssemblyVersion": "0.1.39.0",
     "Description": "Records observed Company Credits totals and shows weekly GC Seals tier progression, FC progress rings, and an optional overlay. Use /fcmetrics to open the window.",
-    "Changelog": "Added overlay challenge week placement under the reset timer.\nAdded current tier reward display on the overlay.\nAdded a Show/Hide Overlay button to the main window.\nUpdated Tier 5 progress colour to #FF46A2.\nAdded background update checking for future release alerts.",
+    "Changelog": "Made overlay buttons compact on one row.\nShortened overlay button labels.\nAdded a red GreenZone Inactive state when more than 25 members are online.\nAdded a hover reminder to wait for GreenZone before handing in loot.",
     "ApplicableVersion": "any",
     "Tags": [
       "free company",
@@ -26,6 +26,6 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Ninethirty77/the-greenzone-repo/main/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Ninethirty77/the-greenzone-repo/main/latest.zip",
     "RepoUrl": "https://github.com/Ninethirty77/the-greenzone-repo",
-    "LastUpdate": "1779604187"
+    "LastUpdate": "1779608930"
   }
 ]
