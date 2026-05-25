@@ -1,5 +1,10 @@
 # The GreenZone Changelog
 
+## 0.1.67
+- Contained the rotating FC information text in a dark blue rounded panel.
+- Extended each rotating item hold to 7 seconds.
+- Highlighted numeric values in gold inside the rotating panel.
+
 ## 0.1.66
 - Added a rotating information panel beneath the FC Credits target graph.
 - Total FC Credits, weekly target progress, and personal estimated FC Credits now share one fade-in/fade-out space.
