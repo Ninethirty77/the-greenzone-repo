@@ -1,12 +1,27 @@
 # The GreenZone Changelog
 
-## 0.1.38
-- Added overlay challenge week placement under the reset timer.
-- Added current tier reward display on the overlay.
-- Added a Show/Hide Overlay button to the main window.
-- Updated Tier 5 progress colour to #FF46A2.
-- Added background update checking for future release alerts.
+## 0.1.65
+- Removed obsolete local FC target, correction, and manual start-week controls.
+- Updated the source and live repository documentation for the shared weekly baseline workflow.
+- Added a short member guide explaining how to use The GreenZone and why it helps the FC.
+- Kept local storage compact by removing unused legacy tracking fields from new saves.
 
-## 0.1.37
-- Repairs existing bad weekly FC Credits baselines by re-anchoring automatic weekly progress to the first FC total seen after the Sunday reset.
-- Keeps personal GC Seals tier progress untouched.
+## 0.1.64
+- Shows the current Gil reward only for the latest completed tier.
+- Keeps earlier completed tiers visibly complete without implying multiple rewards are paid.
+
+## 0.1.63
+- Added a helper bubble for the current reward message on the overlay.
+- Shows that rewards are posted on Monday night and reminds members to have Gwen in their friends list.
+- Completed tier bars now turn green, and the latest completed tier displays the current reward.
+
+## 0.1.60 - 0.1.62
+- Refined the main window layout around the FC target panel and personal tier panel.
+- Renamed the FC target labels to use shorter, clearer FC Credits language.
+- Added hover behavior that reveals the Gil reward for each tier.
+
+## 0.1.50 - 0.1.59
+- Added shared FC week support through `fc-week.json`.
+- Moved FC target progress to a shared baseline so all members see the same weekly FC progress.
+- Added support for Priority Seal Allowance `(+15%)` seal messages.
+- Updated the GreenZone status and helper bubbles for active and inactive states.

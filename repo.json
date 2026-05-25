@@ -3,9 +3,9 @@
     "Author": "Ninethirty77",
     "Name": "The GreenZone",
     "InternalName": "FCMetrics",
-    "AssemblyVersion": "0.1.64.0",
+    "AssemblyVersion": "0.1.65.0",
     "Description": "Records observed Company Credits totals and shows weekly GC Seals tier progression, FC progress rings, and an optional overlay. Use /fcmetrics to open the window.",
-    "Changelog": "Reward display update:\n- Only the latest completed tier now shows the current Gil reward.\n- Earlier completed tiers still show as completed but do not display extra rewards.",
+    "Changelog": "Housekeeping update:\n- Removed obsolete local FC target and correction controls.\n- Updated documentation for the shared weekly FC baseline workflow.\n- Added a member-friendly usage guide.",
     "ApplicableVersion": "any",
     "Tags": [
       "free company",
@@ -26,6 +26,6 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Ninethirty77/the-greenzone-repo/main/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Ninethirty77/the-greenzone-repo/main/latest.zip",
     "RepoUrl": "https://github.com/Ninethirty77/the-greenzone-repo",
-    "LastUpdate": "1779667351"
+    "LastUpdate": "1779671826"
   }
 ]
