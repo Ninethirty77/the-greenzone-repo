@@ -1,5 +1,8 @@
 # The GreenZone Changelog
 
+## 0.1.71
+- Fixed the shared week base so it appears in the window header bar.
+
 ## 0.1.70
 - Moved the shared week base into the window header bar.
 
