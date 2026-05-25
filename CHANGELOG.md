@@ -1,5 +1,8 @@
 # The GreenZone Changelog
 
+## 0.1.69
+- Moved the rotating FC information panel down slightly.
+
 ## 0.1.68
 - Added a subtle blue border around the rotating FC information panel.
 
