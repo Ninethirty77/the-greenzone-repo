@@ -1,5 +1,8 @@
 # The GreenZone Changelog
 
+## 0.1.70
+- Moved the shared week base into the window header bar.
+
 ## 0.1.69
 - Moved the rotating FC information panel down slightly.
 
