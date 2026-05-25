@@ -1,5 +1,8 @@
 # The GreenZone Changelog
 
+## 0.1.68
+- Added a subtle blue border around the rotating FC information panel.
+
 ## 0.1.67
 - Contained the rotating FC information text in a dark blue rounded panel.
 - Extended each rotating item hold to 7 seconds.
