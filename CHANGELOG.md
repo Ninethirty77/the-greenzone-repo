@@ -1,5 +1,10 @@
 # The GreenZone Changelog
 
+## 0.1.66
+- Added a rotating information panel beneath the FC Credits target graph.
+- Total FC Credits, weekly target progress, and personal estimated FC Credits now share one fade-in/fade-out space.
+- Moved the shared week base beneath the rotating information panel.
+
 ## 0.1.65
 - Removed obsolete local FC target, correction, and manual start-week controls.
 - Updated the source and live repository documentation for the shared weekly baseline workflow.
