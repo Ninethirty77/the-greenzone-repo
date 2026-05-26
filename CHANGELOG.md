@@ -1,5 +1,9 @@
 # The GreenZone Changelog
 
+## 0.1.97
+- Added seven translucent boxes to the bottom tile.
+- Moved the overlay toggle beneath the bottom tile.
+
 ## 0.1.96
 - Reduced the two main column heights by another 10px.
 
