@@ -1,5 +1,8 @@
 # The GreenZone Changelog
 
+## 0.1.79
+- Fixed the overlay close image loading so the plugin loads safely.
+
 ## 0.1.78
 - Added a top-left image button for closing the overlay.
 
