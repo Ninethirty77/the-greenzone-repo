@@ -1,5 +1,8 @@
 # The GreenZone Changelog
 
+## 0.1.103
+- Assigns seal hand-ins to daily boxes using the 8am reset boundary.
+
 ## 0.1.102
 - Smoothly animates seal progress from the current displayed percentage when seals are added.
 
