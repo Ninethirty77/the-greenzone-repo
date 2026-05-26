@@ -1,5 +1,8 @@
 # The GreenZone Changelog
 
+## 0.1.73
+- Moved the top seal earners into the FC Credits panel with a cleaner list layout.
+
 ## 0.1.72
 - Added the top 3 weekly Grand Company Seals earners from The Studium.
 
