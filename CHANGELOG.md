@@ -1,5 +1,10 @@
 # The GreenZone Changelog
 
+## 0.1.98
+- Renamed the top seal earners heading.
+- Added the daily activity title and weekday labels.
+- Doubled the daily activity box height.
+
 ## 0.1.97
 - Added seven translucent boxes to the bottom tile.
 - Moved the overlay toggle beneath the bottom tile.
