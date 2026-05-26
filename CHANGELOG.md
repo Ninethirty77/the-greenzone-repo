@@ -1,5 +1,8 @@
 # The GreenZone Changelog
 
+## 0.1.96
+- Reduced the two main column heights by another 10px.
+
 ## 0.1.95
 - Reduced the two main column heights a little more.
 
