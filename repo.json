@@ -3,9 +3,9 @@
     "Author": "Ninethirty77",
     "Name": "The GreenZone",
     "InternalName": "FCMetrics",
-    "AssemblyVersion": "0.1.71.0",
+    "AssemblyVersion": "0.1.72.0",
     "Description": "Records observed Company Credits totals and shows weekly GC Seals tier progression, FC progress rings, and an optional overlay. Use /fcmetrics to open the window.",
-    "Changelog": "Main panel update:\n- Fixed the shared week base so it appears in the window header bar.",
+    "Changelog": "Main panel update:\n- Added the top 3 weekly Grand Company Seals earners from The Studium.",
     "ApplicableVersion": "any",
     "Tags": [
       "free company",
@@ -26,6 +26,6 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Ninethirty77/the-greenzone-repo/main/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Ninethirty77/the-greenzone-repo/main/latest.zip",
     "RepoUrl": "https://github.com/Ninethirty77/the-greenzone-repo",
-    "LastUpdate": "1779719785"
+    "LastUpdate": "1779770559"
   }
 ]

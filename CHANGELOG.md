@@ -1,5 +1,8 @@
 # The GreenZone Changelog
 
+## 0.1.72
+- Added the top 3 weekly Grand Company Seals earners from The Studium.
+
 ## 0.1.71
 - Fixed the shared week base so it appears in the window header bar.
 
