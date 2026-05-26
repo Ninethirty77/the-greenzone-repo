@@ -1,5 +1,8 @@
 # The GreenZone Changelog
 
+## 0.1.75
+- Centered the top seal earners title and tightened the leaderboard spacing.
+
 ## 0.1.74
 - Moved the top seal earners title up slightly in the FC Credits panel.
 
