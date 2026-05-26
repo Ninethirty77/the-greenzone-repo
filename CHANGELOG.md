@@ -1,5 +1,8 @@
 # The GreenZone Changelog
 
+## 0.1.89
+- Nudged the second top seal earner row up a little more.
+
 ## 0.1.88
 - Moved the second top seal earner row up slightly.
 
