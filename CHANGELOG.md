@@ -1,5 +1,8 @@
 # The GreenZone Changelog
 
+## 0.1.87
+- Moved the top seal earner rows up slightly.
+
 ## 0.1.85
 - Centered the overlay button group.
 
