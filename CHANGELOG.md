@@ -1,5 +1,9 @@
 # The GreenZone Changelog
 
+## 0.1.99
+- Left-aligned the daily activity title.
+- Added more space below the daily activity title.
+
 ## 0.1.98
 - Renamed the top seal earners heading.
 - Added the daily activity title and weekday labels.
