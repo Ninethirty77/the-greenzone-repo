@@ -1,5 +1,8 @@
 # The GreenZone Changelog
 
+## 0.1.85
+- Centered the overlay button group.
+
 ## 0.1.84
 - Reduced the Open button width slightly.
 
