@@ -1,5 +1,8 @@
 # The GreenZone Changelog
 
+## 0.1.78
+- Added a top-left image button for closing the overlay.
+
 ## 0.1.77
 - Moved the first top seal earner divider down slightly.
 
