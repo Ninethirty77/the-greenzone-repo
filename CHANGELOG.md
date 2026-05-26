@@ -1,5 +1,9 @@
 # The GreenZone Changelog
 
+## 0.1.105
+- Records weekly Lodestone seal results after the Monday publish window.
+- Shows the active character's best recorded weekly GC Seals and Ravana rank.
+
 ## 0.1.104
 - Shows the daily GC Seals total inside each activity box.
 
