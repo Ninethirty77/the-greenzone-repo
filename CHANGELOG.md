@@ -1,5 +1,8 @@
 # The GreenZone Changelog
 
+## 0.1.80
+- Added a left-edge tab that collapses and restores the overlay.
+
 ## 0.1.79
 - Fixed the overlay close image loading so the plugin loads safely.
 
