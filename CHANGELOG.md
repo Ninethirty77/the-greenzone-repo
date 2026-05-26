@@ -1,5 +1,8 @@
 # The GreenZone Changelog
 
+## 0.1.84
+- Reduced the Open button width slightly.
+
 ## 0.1.83
 - Adjusted overlay panel and button corner rounding.
 
