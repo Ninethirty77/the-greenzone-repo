@@ -1,5 +1,8 @@
 # The GreenZone Changelog
 
+## 0.1.93
+- Nudged the third top seal earner row up one more pixel.
+
 ## 0.1.92
 - Nudged the third top seal earner row up a little more.
 
