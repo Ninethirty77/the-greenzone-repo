@@ -1,5 +1,8 @@
 # The GreenZone Changelog
 
+## 0.1.83
+- Adjusted overlay panel and button corner rounding.
+
 ## 0.1.82
 - Increased the overlay width and rounded the panel corners.
 
