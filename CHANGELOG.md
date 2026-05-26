@@ -1,5 +1,8 @@
 # The GreenZone Changelog
 
+## 0.1.86
+- Added a preview gold and blue sparkle effect around the tier ring.
+
 ## 0.1.85
 - Centered the overlay button group.
 
