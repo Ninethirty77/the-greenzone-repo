@@ -1,5 +1,8 @@
 # The GreenZone Changelog
 
+## 0.1.77
+- Moved the first top seal earner divider down slightly.
+
 ## 0.1.76
 - Moved the top seal earners title up slightly.
 
