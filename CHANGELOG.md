@@ -1,5 +1,8 @@
 # The GreenZone Changelog
 
+## 0.1.101
+- Moved the overlay toggle into the weekly reset bar as plain text.
+
 ## 0.1.100
 - Tracks personal seals earned for each day of the week.
 - Fills the daily activity boxes in blue relative to the highest personal day.
