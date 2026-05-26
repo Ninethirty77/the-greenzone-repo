@@ -1,5 +1,8 @@
 # The GreenZone Changelog
 
+## 0.1.107
+- Renames the daily activity title to Daily GC Seals.
+
 ## 0.1.106
 - Shows the personal best week, GC Seals, and Ravana rank on one line.
 - Uses standard white text with only the numbers highlighted in gold.
