@@ -1,5 +1,8 @@
 # The GreenZone Changelog
 
+## 0.1.102
+- Smoothly animates seal progress from the current displayed percentage when seals are added.
+
 ## 0.1.101
 - Moved the overlay toggle into the weekly reset bar as plain text.
 
