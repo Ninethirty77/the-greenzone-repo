@@ -1,5 +1,8 @@
 # The GreenZone Changelog
 
+## 0.1.82
+- Increased the overlay width and rounded the panel corners.
+
 ## 0.1.81
 - Restored the pre-tab overlay behavior.
 
