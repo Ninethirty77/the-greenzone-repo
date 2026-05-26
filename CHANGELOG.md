@@ -1,5 +1,8 @@
 # The GreenZone Changelog
 
+## 0.1.104
+- Shows the daily GC Seals total inside each activity box.
+
 ## 0.1.103
 - Assigns seal hand-ins to daily boxes using the 8am reset boundary.
 
