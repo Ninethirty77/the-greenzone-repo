@@ -1,5 +1,10 @@
 # The GreenZone Changelog
 
+## 0.1.94
+- Renamed the header start point label.
+- Moved the overlay toggle into a new full-width tile.
+- Reduced the two main column heights.
+
 ## 0.1.93
 - Nudged the third top seal earner row up one more pixel.
 
