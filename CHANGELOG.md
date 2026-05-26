@@ -1,5 +1,8 @@
 # The GreenZone Changelog
 
+## 0.1.91
+- Moved the third top seal earner row up slightly.
+
 ## 0.1.90
 - Moved the divider below the second top seal earner up slightly.
 
