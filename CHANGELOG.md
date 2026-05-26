@@ -1,5 +1,8 @@
 # The GreenZone Changelog
 
+## 0.1.74
+- Moved the top seal earners title up slightly in the FC Credits panel.
+
 ## 0.1.73
 - Moved the top seal earners into the FC Credits panel with a cleaner list layout.
 
