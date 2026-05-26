@@ -3,9 +3,9 @@
     "Author": "Ninethirty77",
     "Name": "The GreenZone",
     "InternalName": "FCMetrics",
-    "AssemblyVersion": "0.1.99.0",
+    "AssemblyVersion": "0.1.100.0",
     "Description": "Records observed Company Credits totals and shows weekly GC Seals tier progression, FC progress rings, and an optional overlay. Use /fcmetrics to open the window.",
-    "Changelog": "Window layout update:\n- Left-aligned the daily activity title.\n- Added more space below the daily activity title.",
+    "Changelog": "Daily activity update:\n- Tracks personal seals earned for each day of the week.\n- Fills the daily activity boxes in blue relative to the highest personal day.",
     "ApplicableVersion": "any",
     "Tags": [
       "free company",
@@ -26,6 +26,6 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Ninethirty77/the-greenzone-repo/main/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Ninethirty77/the-greenzone-repo/main/latest.zip",
     "RepoUrl": "https://github.com/Ninethirty77/the-greenzone-repo",
-    "LastUpdate": "1779809156"
+    "LastUpdate": "1779809841"
   }
 ]
