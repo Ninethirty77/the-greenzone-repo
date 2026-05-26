@@ -1,5 +1,8 @@
 # The GreenZone Changelog
 
+## 0.1.81
+- Restored the pre-tab overlay behavior.
+
 ## 0.1.80
 - Added a left-edge tab that collapses and restores the overlay.
 
