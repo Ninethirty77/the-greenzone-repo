@@ -1,5 +1,8 @@
 # The GreenZone Changelog
 
+## 0.1.108
+- Adds a gold weekly reset pace marker to the FC Credits Target ring.
+
 ## 0.1.107
 - Renames the daily activity title to Daily GC Seals.
 
