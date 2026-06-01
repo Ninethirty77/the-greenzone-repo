@@ -1,5 +1,9 @@
 # The GreenZone Changelog
 
+## 0.1.109
+- Waits for the correct Lodestone tallying period before caching weekly seal rankings.
+- Assigns published rankings to the completed challenge week.
+
 ## 0.1.108
 - Adds a gold weekly reset pace marker to the FC Credits Target ring.
 
