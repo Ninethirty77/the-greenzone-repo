@@ -1,5 +1,10 @@
 # The GreenZone Changelog
 
+## 0.1.111
+- Adds `/greenzone settings` with FC Chest Sync enabled by default for The Studium.
+- Uploads tracked FC chest item counts when members open the FC chest.
+- Reports only the FC chest tabs viewed during the current chest session.
+
 ## 0.1.110
 - Changes the main command to `/greenzone`.
 - Changes the overlay command to `/greenzone overlay`.
