@@ -3,9 +3,9 @@
     "Author": "Ninethirty77",
     "Name": "The GreenZone",
     "InternalName": "FCMetrics",
-    "AssemblyVersion": "0.1.112.0",
+    "AssemblyVersion": "0.1.113.0",
     "Description": "Records observed Company Credits totals and shows weekly GC Seals tier progression, FC progress rings, and an optional overlay. Use /greenzone to open the window.",
-    "Changelog": "FC chest sync fix:\n- Keeps syncing while the FC chest remains open.\n- Uploads again after later tab loads or item changes.\n- Fixes Tab 2 items such as Double Duracoat staying on an old quantity after the first Tab 1 sync.",
+    "Changelog": "FC chest tab sync fix:\n- Detects the selected FC chest tab from the visible chest window.\n- Fixes later visits showing only Tab 1 when the game reuses cached chest page data.\n- Rejects unsafe empty or partial material-tab reads before they can zero dashboard quantities.",
     "ApplicableVersion": "any",
     "Tags": [
       "free company",
@@ -26,6 +26,6 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Ninethirty77/the-greenzone-repo/main/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Ninethirty77/the-greenzone-repo/main/latest.zip",
     "RepoUrl": "https://github.com/Ninethirty77/the-greenzone-repo",
-    "LastUpdate": "1781019738"
+    "LastUpdate": "1781021063"
   }
 ]

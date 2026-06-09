@@ -1,5 +1,10 @@
 # The GreenZone Changelog
 
+## 0.1.113
+- Detects the selected FC chest tab from the visible chest window.
+- Fixes later visits showing only Tab 1 when the game reuses cached chest page data.
+- Rejects unsafe empty or partial material-tab reads before they can zero dashboard quantities.
+
 ## 0.1.112
 - Keeps syncing while the FC chest remains open.
 - Uploads again after later tab loads or item changes.
