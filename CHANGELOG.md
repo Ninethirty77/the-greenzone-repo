@@ -1,5 +1,9 @@
 # The GreenZone Changelog
 
+## 0.1.110
+- Changes the main command to `/greenzone`.
+- Changes the overlay command to `/greenzone overlay`.
+
 ## 0.1.109
 - Waits for the correct Lodestone tallying period before caching weekly seal rankings.
 - Assigns published rankings to the completed challenge week.
