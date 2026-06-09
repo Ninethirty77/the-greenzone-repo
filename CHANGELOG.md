@@ -1,5 +1,10 @@
 # The GreenZone Changelog
 
+## 0.1.112
+- Keeps syncing while the FC chest remains open.
+- Uploads again after later tab loads or item changes.
+- Fixes Tab 2 items such as Double Duracoat staying on an old quantity after the first Tab 1 sync.
+
 ## 0.1.111
 - Adds `/greenzone settings` with FC Chest Sync enabled by default for The Studium.
 - Uploads tracked FC chest item counts when members open the FC chest.
