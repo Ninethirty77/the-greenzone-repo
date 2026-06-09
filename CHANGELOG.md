@@ -1,5 +1,10 @@
 # The GreenZone Changelog
 
+## 0.1.114
+- Detects FC chest tab changes from explicit inventory event page data.
+- Trusts tabs with confirmed item changes so Tab 2 can repair stuck dashboard values.
+- Narrows selected-tab UI detection to the real 1-5 chest tab row.
+
 ## 0.1.113
 - Detects the selected FC chest tab from the visible chest window.
 - Fixes later visits showing only Tab 1 when the game reuses cached chest page data.
