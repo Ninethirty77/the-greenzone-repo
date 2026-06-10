@@ -1,5 +1,9 @@
 # The GreenZone Changelog
 
+## 0.1.117
+- Syncs Tab 1 after the FC chest opens when Tab 1 actual inventory data is loaded.
+- Keeps the unsafe blind Tab 1 guess disabled so weak reads do not publish false tab data.
+
 ## 0.1.116
 - Uploads full FC chest section snapshots for opened tabs and crystals, including item IDs, names, quantities and slots.
 - Stops guessing Tab 1 when the selected FC chest tab cannot be read confidently.
