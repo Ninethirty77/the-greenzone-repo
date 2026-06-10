@@ -1,5 +1,10 @@
 # The GreenZone Changelog
 
+## 0.1.115
+- Only uploads FC chest data while the current character is in The Studium FC tag.
+- Sends the FC tag with chest sync uploads so the dashboard endpoint can reject non-Studium chest data.
+- Updates the settings wording to explain that FC tag is included in sync uploads.
+
 ## 0.1.114
 - Detects FC chest tab changes from explicit inventory event page data.
 - Trusts tabs with confirmed item changes so Tab 2 can repair stuck dashboard values.
