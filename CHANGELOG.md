@@ -1,5 +1,9 @@
 # The GreenZone Changelog
 
+## 0.1.118
+- Confirms selected FC chest tabs only after their actual item data is loaded.
+- Allows Tabs 2-5 to upload after clicking through them instead of stopping at Tab 1.
+
 ## 0.1.117
 - Syncs Tab 1 after the FC chest opens when Tab 1 actual inventory data is loaded.
 - Keeps the unsafe blind Tab 1 guess disabled so weak reads do not publish false tab data.

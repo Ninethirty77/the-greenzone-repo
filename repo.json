@@ -3,9 +3,9 @@
     "Author": "Ninethirty77",
     "Name": "The GreenZone",
     "InternalName": "FCMetrics",
-    "AssemblyVersion": "0.1.117.0",
+    "AssemblyVersion": "0.1.118.0",
     "Description": "Records observed Company Credits totals and shows weekly GC Seals tier progression, FC progress rings, and an optional overlay. Use /greenzone to open the window.",
-    "Changelog": "FC chest Tab 1 sync fix:\n- Syncs Tab 1 after the FC chest opens when Tab 1 actual inventory data is loaded.\n- Keeps the unsafe blind Tab 1 guess disabled so weak reads do not publish false tab data.",
+    "Changelog": "FC chest tab switching fix:\n- Confirms selected FC chest tabs only after their actual item data is loaded.\n- Allows Tabs 2-5 to upload after clicking through them instead of stopping at Tab 1.",
     "ApplicableVersion": "any",
     "Tags": [
       "free company",
@@ -26,6 +26,6 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Ninethirty77/the-greenzone-repo/main/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Ninethirty77/the-greenzone-repo/main/latest.zip",
     "RepoUrl": "https://github.com/Ninethirty77/the-greenzone-repo",
-    "LastUpdate": "1781089248"
+    "LastUpdate": "1781096027"
   }
 ]
