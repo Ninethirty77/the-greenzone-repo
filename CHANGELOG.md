@@ -1,5 +1,9 @@
 # The GreenZone Changelog
 
+## 0.1.119
+- Detects FC chest pages from loaded inventory data as well as selected tab UI.
+- Allows opened Tabs 2-5 to sync even when the game UI does not report tab selection reliably.
+
 ## 0.1.118
 - Confirms selected FC chest tabs only after their actual item data is loaded.
 - Allows Tabs 2-5 to upload after clicking through them instead of stopping at Tab 1.
