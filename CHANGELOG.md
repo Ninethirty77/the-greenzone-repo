@@ -1,5 +1,10 @@
 # The GreenZone Changelog
 
+## 0.1.116
+- Uploads full FC chest section snapshots for opened tabs and crystals, including item IDs, names, quantities and slots.
+- Stops guessing Tab 1 when the selected FC chest tab cannot be read confidently.
+- Updates FC chest sync wording for the broader full-chest dashboard model.
+
 ## 0.1.115
 - Only uploads FC chest data while the current character is in The Studium FC tag.
 - Sends the FC tag with chest sync uploads so the dashboard endpoint can reject non-Studium chest data.
