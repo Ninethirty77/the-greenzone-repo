@@ -1,5 +1,10 @@
 # The GreenZone Changelog
 
+## 0.1.121
+- Adds a default-on Studium Community setting.
+- Lists opted-in The Studium characters on the community page with character name, GreenZone version, and personal best weekly GC seals.
+- Sends a remove request when the setting is turned off.
+
 ## 0.1.120
 - Uploads The Studium FC chest gil balance with FC chest sync snapshots.
 - Updates settings wording to distinguish FC chest gil from personal gil.
