@@ -3,9 +3,9 @@
     "Author": "Ninethirty77",
     "Name": "The GreenZone",
     "InternalName": "FCMetrics",
-    "AssemblyVersion": "0.1.119.0",
+    "AssemblyVersion": "0.1.120.0",
     "Description": "Records observed Company Credits totals and shows weekly GC Seals tier progression, FC progress rings, and an optional overlay. Use /greenzone to open the window.",
-    "Changelog": "FC chest loaded-page sync fix:\n- Detects FC chest pages from loaded inventory data as well as selected tab UI.\n- Allows opened Tabs 2-5 to sync even when the game UI does not report tab selection reliably.",
+    "Changelog": "FC chest gil support:\n- Uploads The Studium FC chest gil balance with FC chest sync snapshots.\n- Updates settings wording to distinguish FC chest gil from personal gil.",
     "ApplicableVersion": "any",
     "Tags": [
       "free company",
@@ -26,6 +26,6 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Ninethirty77/the-greenzone-repo/main/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Ninethirty77/the-greenzone-repo/main/latest.zip",
     "RepoUrl": "https://github.com/Ninethirty77/the-greenzone-repo",
-    "LastUpdate": "1781096475"
+    "LastUpdate": "1781167841"
   }
 ]

@@ -1,5 +1,9 @@
 # The GreenZone Changelog
 
+## 0.1.120
+- Uploads The Studium FC chest gil balance with FC chest sync snapshots.
+- Updates settings wording to distinguish FC chest gil from personal gil.
+
 ## 0.1.119
 - Detects FC chest pages from loaded inventory data as well as selected tab UI.
 - Allows opened Tabs 2-5 to sync even when the game UI does not report tab selection reliably.
