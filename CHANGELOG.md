@@ -1,5 +1,8 @@
 # The GreenZone Changelog
 
+## 0.1.122
+- Sends Studium Community presence updates to `community.thestudium.com.au`.
+
 ## 0.1.121
 - Adds a default-on Studium Community setting.
 - Lists opted-in The Studium characters on the community page with character name, GreenZone version, and personal best weekly GC seals.
