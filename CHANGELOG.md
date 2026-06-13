@@ -1,5 +1,9 @@
 # The GreenZone Changelog
 
+## 0.1.124
+- Retries pending FC chest contribution entries until a sync upload succeeds.
+- Tracks positive FC chest additions for top contributor leaderboards.
+
 ## 0.1.123
 - Tracks positive FC chest additions during a GreenZone chest session for top contributor leaderboards.
 - Adds item category metadata so Minion contributions can be identified correctly.

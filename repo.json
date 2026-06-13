@@ -3,9 +3,9 @@
     "Author": "Ninethirty77",
     "Name": "The GreenZone",
     "InternalName": "FCMetrics",
-    "AssemblyVersion": "0.1.123.0",
+    "AssemblyVersion": "0.1.124.0",
     "Description": "Records observed Company Credits totals and shows weekly GC Seals tier progression, FC progress rings, and an optional overlay. Use /greenzone to open the window.",
-    "Changelog": "Crafter contributor tracking:\n- Tracks positive FC chest additions during a GreenZone chest session for top contributor leaderboards.\n- Adds item category metadata so Minion contributions can be identified correctly.",
+    "Changelog": "Crafter contributor tracking:\n- Retries pending FC chest contribution entries until a sync upload succeeds.\n- Tracks positive FC chest additions for top contributor leaderboards.",
     "ApplicableVersion": "any",
     "Tags": [
       "free company",
@@ -26,6 +26,6 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Ninethirty77/the-greenzone-repo/main/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Ninethirty77/the-greenzone-repo/main/latest.zip",
     "RepoUrl": "https://github.com/Ninethirty77/the-greenzone-repo",
-    "LastUpdate": "1781315889"
+    "LastUpdate": "1781316171"
   }
 ]
