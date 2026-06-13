@@ -1,5 +1,9 @@
 # The GreenZone Changelog
 
+## 0.1.125
+- Uploads Materia rank alongside Ravana rank for personal best seals records.
+- Keeps existing seals and tier tracking behavior unchanged.
+
 ## 0.1.124
 - Retries pending FC chest contribution entries until a sync upload succeeds.
 - Tracks positive FC chest additions for top contributor leaderboards.
