@@ -1,5 +1,9 @@
 # The GreenZone Changelog
 
+## 0.1.123
+- Tracks positive FC chest additions during a GreenZone chest session for top contributor leaderboards.
+- Adds item category metadata so Minion contributions can be identified correctly.
+
 ## 0.1.122
 - Sends Studium Community presence updates to `community.thestudium.com.au`.
 
