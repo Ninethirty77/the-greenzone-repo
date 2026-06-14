@@ -1,5 +1,10 @@
 # The GreenZone Changelog
 
+## 0.1.126
+- Detects loaded FC chest tab content changes even if the normal inventory-change event is missed.
+- Adds a read-only FC chest sync status section to settings for easier troubleshooting.
+- Keeps existing seals and tier tracking behavior unchanged.
+
 ## 0.1.125
 - Uploads Materia rank alongside Ravana rank for personal best seals records.
 - Keeps existing seals and tier tracking behavior unchanged.
