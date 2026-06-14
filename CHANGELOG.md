@@ -1,5 +1,10 @@
 # The GreenZone Changelog
 
+## 0.1.130
+- Nets FC chest contribution credit within the current chest session so remove/re-add loops do not create duplicate pending credit.
+- Keeps contribution tracking in memory only while the chest is open.
+- Keeps normal FC chest stock sync behaviour unchanged.
+
 ## 0.1.129
 - Tightens FC chest contribution detection so existing stock loaded late is not credited as a new contribution.
 - Marks new contribution uploads with a safer detection version for the dashboard contributor ledger.
