@@ -1,5 +1,9 @@
 # The GreenZone Changelog
 
+## 0.1.128
+- Repairs malformed saved config data during startup instead of letting it stop GreenZone from loading.
+- Cleans bad saved profile, FC point, ranking, FC chest sync, and community status entries defensively.
+
 ## 0.1.127
 - Prevents a bad saved FC point sample from stopping GreenZone from loading.
 - Keeps the FC chest sync reliability and settings status improvements from 0.1.126.
