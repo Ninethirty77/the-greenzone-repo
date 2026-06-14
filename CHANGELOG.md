@@ -1,5 +1,10 @@
 # The GreenZone Changelog
 
+## 0.1.131
+- Scores contributor credit only from verified local item moves into the FC chest.
+- Stops using passive FC chest stock increases as individual contribution proof.
+- Keeps normal FC chest stock sync behaviour unchanged.
+
 ## 0.1.130
 - Nets FC chest contribution credit within the current chest session so remove/re-add loops do not create duplicate pending credit.
 - Keeps contribution tracking in memory only while the chest is open.
