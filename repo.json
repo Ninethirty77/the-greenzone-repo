@@ -3,9 +3,9 @@
     "Author": "Ninethirty77",
     "Name": "The GreenZone",
     "InternalName": "FCMetrics",
-    "AssemblyVersion": "0.1.128.0",
+    "AssemblyVersion": "0.1.129.0",
     "Description": "Records observed Company Credits totals and shows weekly GC Seals tier progression, FC progress rings, and an optional overlay. Use /greenzone to open the window.",
-    "Changelog": "Config safety hardening:\n- Repairs malformed saved config data during startup instead of letting it stop GreenZone from loading.\n- Cleans bad saved profile, FC point, ranking, FC chest sync, and community status entries defensively.",
+    "Changelog": "FC chest contributor reliability:\n- Tightens FC chest contribution detection so existing stock loaded late is not credited as a new contribution.\n- Marks new contribution uploads with a safer detection version for the dashboard contributor ledger.\n- Keeps normal FC chest stock sync behaviour unchanged.",
     "ApplicableVersion": "any",
     "Tags": [
       "free company",
@@ -26,6 +26,6 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Ninethirty77/the-greenzone-repo/main/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Ninethirty77/the-greenzone-repo/main/latest.zip",
     "RepoUrl": "https://github.com/Ninethirty77/the-greenzone-repo",
-    "LastUpdate": "1781406778"
+    "LastUpdate": "1781413427"
   }
 ]

@@ -1,5 +1,10 @@
 # The GreenZone Changelog
 
+## 0.1.129
+- Tightens FC chest contribution detection so existing stock loaded late is not credited as a new contribution.
+- Marks new contribution uploads with a safer detection version for the dashboard contributor ledger.
+- Keeps normal FC chest stock sync behaviour unchanged.
+
 ## 0.1.128
 - Repairs malformed saved config data during startup instead of letting it stop GreenZone from loading.
 - Cleans bad saved profile, FC point, ranking, FC chest sync, and community status entries defensively.
