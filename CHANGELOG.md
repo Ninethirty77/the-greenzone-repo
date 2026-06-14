@@ -1,5 +1,9 @@
 # The GreenZone Changelog
 
+## 0.1.127
+- Prevents a bad saved FC point sample from stopping GreenZone from loading.
+- Keeps the FC chest sync reliability and settings status improvements from 0.1.126.
+
 ## 0.1.126
 - Detects loaded FC chest tab content changes even if the normal inventory-change event is missed.
 - Adds a read-only FC chest sync status section to settings for easier troubleshooting.
