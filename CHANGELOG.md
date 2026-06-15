@@ -1,5 +1,10 @@
 # The GreenZone Changelog
 
+## 0.1.134
+- Detects contributor credit from per-session FC chest stock increases.
+- Catches meal and other additions even when the game reports an unusual inventory event shape.
+- Keeps existing FC chest stock sync behaviour unchanged.
+
 ## 0.1.133
 - Credits verified items added into a new empty FC chest slot.
 - Fixes food and other separate-stack deposits syncing stock without contributor credit.
