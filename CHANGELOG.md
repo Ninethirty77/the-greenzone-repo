@@ -1,5 +1,10 @@
 # The GreenZone Changelog
 
+## 0.1.133
+- Credits verified items added into a new empty FC chest slot.
+- Fixes food and other separate-stack deposits syncing stock without contributor credit.
+- Keeps existing FC chest stock sync behaviour unchanged.
+
 ## 0.1.132
 - Adds contributor scoring support for FC chest crystal, shard, and cluster deposits.
 - Keeps verified local item-move scoring for contributor credit.
