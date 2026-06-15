@@ -1,5 +1,10 @@
 # The GreenZone Changelog
 
+## 0.1.137
+- Restores the known-good 0.1.134 seal counting behavior so Grand Company hand-ins credit again.
+- Removes the broken 0.1.135/0.1.136 chat-channel guards while the integrity fix is reworked.
+- Keeps FC chest contributor reliability changes from 0.1.134.
+
 ## 0.1.136
 - Restores real Grand Company hand-in seal credit from game-generated progress messages.
 - Keeps player/local chat channels such as `/echo`, FC chat, party chat, tells, and linkshells blocked.
