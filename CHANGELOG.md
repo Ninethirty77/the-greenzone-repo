@@ -1,5 +1,10 @@
 # The GreenZone Changelog
 
+## 0.1.132
+- Adds contributor scoring support for FC chest crystal, shard, and cluster deposits.
+- Keeps verified local item-move scoring for contributor credit.
+- Supports new dashboard categories for tome mats, crystals, and meals.
+
 ## 0.1.131
 - Scores contributor credit only from verified local item moves into the FC chest.
 - Stops using passive FC chest stock increases as individual contribution proof.
