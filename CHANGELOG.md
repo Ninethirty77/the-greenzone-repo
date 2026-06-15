@@ -1,5 +1,10 @@
 # The GreenZone Changelog
 
+## 0.1.135
+- Counts weekly GC seal gains only from trusted game-generated chat log types.
+- Ignores player-typed chat and `/echo` messages that mimic seal gain text.
+- Rejects impossible single-message seal values as an additional safeguard.
+
 ## 0.1.134
 - Detects contributor credit from per-session FC chest stock increases.
 - Catches meal and other additions even when the game reports an unusual inventory event shape.
