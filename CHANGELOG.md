@@ -1,5 +1,10 @@
 # The GreenZone Changelog
 
+## 0.1.136
+- Restores real Grand Company hand-in seal credit from game-generated progress messages.
+- Keeps player/local chat channels such as `/echo`, FC chat, party chat, tells, and linkshells blocked.
+- Keeps impossible single-message seal values rejected as an additional safeguard.
+
 ## 0.1.135
 - Counts weekly GC seal gains only from trusted game-generated chat log types.
 - Ignores player-typed chat and `/echo` messages that mimic seal gain text.
