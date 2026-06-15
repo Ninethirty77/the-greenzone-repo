@@ -1,5 +1,10 @@
 # The GreenZone Changelog
 
+## 0.1.138
+- Credits GC seals from the game's lower-level LogMessageId 1300 instead of typed chat text.
+- Counts only messages sourced from the current local character and home world.
+- Blocks `/echo` and player chat from granting seals while keeping real Grand Company hand-ins credited.
+
 ## 0.1.137
 - Restores the known-good 0.1.134 seal counting behavior so Grand Company hand-ins credit again.
 - Removes the broken 0.1.135/0.1.136 chat-channel guards while the integrity fix is reworked.
