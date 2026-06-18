@@ -1,5 +1,10 @@
 # The GreenZone Changelog
 
+## 0.1.139
+- Uses verified local inventory change events only for FC chest contributor credit.
+- Removes inferred tab-delta contribution credit that could assign another member's additions to the viewer.
+- Requires the new contribution detection version for leaderboard credit while preserving normal FC chest stock sync.
+
 ## 0.1.138
 - Credits GC seals from the game's lower-level LogMessageId 1300 instead of typed chat text.
 - Counts only messages sourced from the current local character and home world.
