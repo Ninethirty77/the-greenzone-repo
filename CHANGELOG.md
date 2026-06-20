@@ -1,5 +1,10 @@
 # The GreenZone Changelog
 
+## 0.1.140
+- Uploads verified FC chest add and remove events with retry-safe event IDs.
+- Adds same-character withdrawal debt so remove/re-add loops do not create extra credit.
+- Allows legitimate restocking after another member uses materials to receive full contribution credit.
+
 ## 0.1.139
 - Uses verified local inventory change events only for FC chest contributor credit.
 - Removes inferred tab-delta contribution credit that could assign another member's additions to the viewer.
