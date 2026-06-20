@@ -1,5 +1,10 @@
 # The GreenZone Changelog
 
+## 0.1.141
+- Ignores initial FC chest tab-load inventory events until the tab has a confirmed baseline.
+- Keeps same-character withdrawal debt for remove/re-add protection.
+- Requires the corrected contribution detection version for dashboard leaderboard credit.
+
 ## 0.1.140
 - Uploads verified FC chest add and remove events with retry-safe event IDs.
 - Adds same-character withdrawal debt so remove/re-add loops do not create extra credit.
