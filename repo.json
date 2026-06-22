@@ -3,9 +3,9 @@
     "Author": "Ninethirty77",
     "Name": "The GreenZone",
     "InternalName": "FCMetrics",
-    "AssemblyVersion": "0.1.141.0",
+    "AssemblyVersion": "0.1.142.0",
     "Description": "Records observed Company Credits totals and shows weekly GC Seals tier progression, FC progress rings, and an optional overlay. Use /greenzone to open the window.",
-    "Changelog": "FC chest contributor scoring:\n- Ignores initial FC chest tab-load inventory events until the tab has a confirmed baseline.\n- Keeps same-character withdrawal debt for remove/re-add protection.\n- Requires the corrected contribution detection version for dashboard leaderboard credit.",
+    "Changelog": "Weekly reset timing:\n- Moves the weekly GC seals reset and progress timer to Monday 9am AEST.\n- Reorders the daily GC seals activity buckets to run Monday through Sunday.\n- Updates Lodestone weekly standings timing to the Monday 6pm AEST publish window.",
     "ApplicableVersion": "any",
     "Tags": [
       "free company",
@@ -26,6 +26,6 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Ninethirty77/the-greenzone-repo/main/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Ninethirty77/the-greenzone-repo/main/latest.zip",
     "RepoUrl": "https://github.com/Ninethirty77/the-greenzone-repo",
-    "LastUpdate": "1781926442"
+    "LastUpdate": "1782167795"
   }
 ]

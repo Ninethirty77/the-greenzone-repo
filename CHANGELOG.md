@@ -1,5 +1,10 @@
 # The GreenZone Changelog
 
+## 0.1.142
+- Moves the weekly GC seals reset and progress timer to Monday 9am AEST.
+- Reorders the daily GC seals activity buckets to run Monday through Sunday.
+- Updates Lodestone weekly standings timing to the Monday 6pm AEST publish window.
+
 ## 0.1.141
 - Ignores initial FC chest tab-load inventory events until the tab has a confirmed baseline.
 - Keeps same-character withdrawal debt for remove/re-add protection.
