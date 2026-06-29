@@ -1,5 +1,10 @@
 # The GreenZone Changelog
 
+## 0.1.143
+- Renames the plugin listing and windows to The Studium.
+- Adds `/thestudium` as the primary slash command.
+- Keeps `/greenzone` as a legacy command alias for compatibility.
+
 ## 0.1.142
 - Moves the weekly GC seals reset and progress timer to Monday 9am AEST.
 - Reorders the daily GC seals activity buckets to run Monday through Sunday.

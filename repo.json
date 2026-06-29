@@ -1,11 +1,11 @@
 [
   {
     "Author": "Ninethirty77",
-    "Name": "The GreenZone",
+    "Name": "The Studium",
     "InternalName": "FCMetrics",
-    "AssemblyVersion": "0.1.142.0",
-    "Description": "Records observed Company Credits totals and shows weekly GC Seals tier progression, FC progress rings, and an optional overlay. Use /greenzone to open the window.",
-    "Changelog": "Weekly reset timing:\n- Moves the weekly GC seals reset and progress timer to Monday 9am AEST.\n- Reorders the daily GC seals activity buckets to run Monday through Sunday.\n- Updates Lodestone weekly standings timing to the Monday 6pm AEST publish window.",
+    "AssemblyVersion": "0.1.143.0",
+    "Description": "Records observed Company Credits totals and shows weekly GC Seals tier progression, FC progress rings, and an optional overlay. Use /thestudium to open the window.",
+    "Changelog": "Studium rename:\n- Renames the plugin listing and windows to The Studium.\n- Adds /thestudium as the primary slash command.\n- Keeps /greenzone as a legacy command alias for compatibility.",
     "ApplicableVersion": "any",
     "Tags": [
       "free company",
@@ -26,6 +26,6 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Ninethirty77/the-greenzone-repo/main/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Ninethirty77/the-greenzone-repo/main/latest.zip",
     "RepoUrl": "https://github.com/Ninethirty77/the-greenzone-repo",
-    "LastUpdate": "1782167795"
+    "LastUpdate": "1782740648"
   }
 ]
