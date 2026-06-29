@@ -1,5 +1,10 @@
 # The GreenZone Changelog
 
+## 0.1.145
+- Loads predefined crafting sets from the hosted crafter dashboard catalog.
+- Adds Miner, Botanist, Fisher, and all crafting job gear sets.
+- Adds Gear, Accessories, and Tools filters before material calculation and Artisan handoff.
+
 ## 0.1.144
 - Adds `/thestudium crafters` with a predefined current mining gear set.
 - Calculates direct recipe materials and shows inventory and FC chest availability.
