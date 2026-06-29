@@ -1,5 +1,10 @@
 # The GreenZone Changelog
 
+## 0.1.144
+- Adds `/thestudium crafters` with a predefined current mining gear set.
+- Calculates direct recipe materials and shows inventory and FC chest availability.
+- Adds experimental FC chest withdrawal and Artisan handoff once materials are ready.
+
 ## 0.1.143
 - Renames the plugin listing and windows to The Studium.
 - Adds `/thestudium` as the primary slash command.
