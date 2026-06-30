@@ -1,5 +1,10 @@
 # The GreenZone Changelog
 
+## 0.1.153
+- Adds personalized Crafters status messages before and after gear set selection.
+- Shows the chosen finished item count in the top workflow strip.
+- Tracks crafted item progress after Artisan starts by comparing finished gear inventory gains.
+
 ## 0.1.152
 - Restyles the Crafters workflow to better match the GreenZone main window.
 - Adds a compact workflow status bar with stocked and transferred material progress.
