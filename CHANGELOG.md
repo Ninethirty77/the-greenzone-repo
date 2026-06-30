@@ -1,5 +1,10 @@
 # The GreenZone Changelog
 
+## 0.1.159
+- Changes the craft-set dropdown popup to three balanced columns.
+- Removes the thin section and column separator lines from the dropdown popup.
+- Stops focusing the last selected craft set when the dropdown opens.
+
 ## 0.1.158
 - Splits the craft-set dropdown popup into two balanced columns.
 - Adds the empty-section status message for queues with no selected gear sections.

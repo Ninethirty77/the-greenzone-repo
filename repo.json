@@ -3,9 +3,9 @@
     "Author": "Ninethirty77",
     "Name": "The Studium",
     "InternalName": "FCMetrics",
-    "AssemblyVersion": "0.1.158.0",
+    "AssemblyVersion": "0.1.159.0",
     "Description": "The Studium app is an essential companion app for all Studium Members.",
-    "Changelog": "Studium Crafters layout polish:\n- Splits the craft-set dropdown popup into two balanced columns.\n- Adds the empty-section status message for queues with no selected gear sections.\n- Moves FC chest withdrawal and Artisan handoff into a two-column row with larger buttons.",
+    "Changelog": "Studium Crafters dropdown refinement:\n- Changes the craft-set dropdown popup to three balanced columns.\n- Removes the thin section and column separator lines from the dropdown popup.\n- Stops focusing the last selected craft set when the dropdown opens.",
     "ApplicableVersion": "any",
     "Tags": [
       "free company",
@@ -27,6 +27,6 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Ninethirty77/the-greenzone-repo/main/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Ninethirty77/the-greenzone-repo/main/latest.zip",
     "RepoUrl": "https://github.com/Ninethirty77/the-greenzone-repo",
-    "LastUpdate": "1782832567"
+    "LastUpdate": "1782833315"
   }
 ]
