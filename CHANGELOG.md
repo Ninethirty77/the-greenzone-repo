@@ -1,5 +1,10 @@
 # The GreenZone Changelog
 
+## 0.1.151
+- Shows the Crafters window as `The Studium v0.1.151 - Crafters`.
+- Changes unavailable FC chest material rows to say `Open FC Chest`.
+- Marks fully withdrawn material rows as `Transferred` after FC chest withdrawal.
+
 ## 0.1.150
 - Adds `/tscrafters` as the direct command for the Studium Crafters module.
 - Keeps `/thestudium` focused on the main Studium window, settings, overlay, and clear actions.
