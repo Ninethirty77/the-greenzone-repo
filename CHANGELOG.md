@@ -1,5 +1,10 @@
 # The GreenZone Changelog
 
+## 0.1.158
+- Splits the craft-set dropdown popup into two balanced columns.
+- Adds the empty-section status message for queues with no selected gear sections.
+- Moves FC chest withdrawal and Artisan handoff into a two-column row with larger buttons.
+
 ## 0.1.157
 - Updates the Dalamud listing icon to the new The Studium logo.
 - Updates the plugin punchline and description for the Studium identity.
