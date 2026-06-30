@@ -1,5 +1,10 @@
 # The GreenZone Changelog
 
+## 0.1.148
+- Splits the crafting-list dropdown into DoH, DoL, tank, DPS, and healer categories.
+- Updates FC chest withdrawal planning to require all materials to be stocked before withdrawing anything.
+- Withdraws full required material amounts, including crystals and clusters up to the player inventory cap.
+
 ## 0.1.147
 - Adds a visual queue so multiple crafting lists can be planned together.
 - Gives each queued list its own Gear, Accessories, and Tools / Weapon controls.
