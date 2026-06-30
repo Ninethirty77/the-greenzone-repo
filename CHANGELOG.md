@@ -1,5 +1,10 @@
 # The GreenZone Changelog
 
+## 0.1.146
+- Groups crafting-list choices into DoW/M and Crafting / Gathering sections.
+- Makes the expanded hosted gear catalog easier to scan in the plugin.
+- Keeps material calculation, FC chest withdrawal, and Artisan handoff behavior unchanged.
+
 ## 0.1.145
 - Loads predefined crafting sets from the hosted crafter dashboard catalog.
 - Adds Miner, Botanist, Fisher, and all crafting job gear sets.
