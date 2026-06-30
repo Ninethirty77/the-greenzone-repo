@@ -1,5 +1,10 @@
 # The GreenZone Changelog
 
+## 0.1.149
+- Closes the FC chest window after a successful Crafters withdrawal queue completes.
+- Keeps Artisan handoff unblocked after materials are withdrawn.
+- Keeps the all-or-nothing FC chest material validation from the previous release.
+
 ## 0.1.148
 - Splits the crafting-list dropdown into DoH, DoL, tank, DPS, and healer categories.
 - Updates FC chest withdrawal planning to require all materials to be stocked before withdrawing anything.

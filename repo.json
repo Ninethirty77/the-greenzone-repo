@@ -3,9 +3,9 @@
     "Author": "Ninethirty77",
     "Name": "The Studium",
     "InternalName": "FCMetrics",
-    "AssemblyVersion": "0.1.148.0",
+    "AssemblyVersion": "0.1.149.0",
     "Description": "Records observed Company Credits totals, shows weekly GC Seals tier progression, FC progress rings, an optional overlay, and a preview Studium Crafters workflow. Use /thestudium to open the window.",
-    "Changelog": "Studium Crafters release sync:\n- Splits the crafting-list dropdown into DoH, DoL, tank, DPS, and healer categories.\n- Updates FC chest withdrawal planning to require all materials to be stocked before withdrawing anything.\n- Withdraws full required material amounts, including crystals and clusters up to the player inventory cap.",
+    "Changelog": "Studium Crafters withdrawal:\n- Closes the FC chest window after a successful Crafters withdrawal queue completes.\n- Keeps Artisan handoff unblocked after materials are withdrawn.\n- Keeps the all-or-nothing FC chest material validation from the previous release.",
     "ApplicableVersion": "any",
     "Tags": [
       "free company",
@@ -27,6 +27,6 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Ninethirty77/the-greenzone-repo/main/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Ninethirty77/the-greenzone-repo/main/latest.zip",
     "RepoUrl": "https://github.com/Ninethirty77/the-greenzone-repo",
-    "LastUpdate": "1782808052"
+    "LastUpdate": "1782813018"
   }
 ]
