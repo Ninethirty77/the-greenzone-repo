@@ -3,9 +3,9 @@
     "Author": "Ninethirty77",
     "Name": "The Studium",
     "InternalName": "FCMetrics",
-    "AssemblyVersion": "0.1.161.0",
+    "AssemblyVersion": "0.1.162.0",
     "Description": "The Studium app is an essential companion app for all Studium Members.",
-    "Changelog": "Studium Crafters stock status:\n- Shows missing or short materials as Out of stock once all FC chest sections are confirmed loaded.\n- Keeps Open FC Chest for materials that still need FC chest data.",
+    "Changelog": "Studium Crafters queue controls:\n- Removes the Clear queue button from the craft-set queue controls.",
     "ApplicableVersion": "any",
     "Tags": [
       "free company",
@@ -27,6 +27,6 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Ninethirty77/the-greenzone-repo/main/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Ninethirty77/the-greenzone-repo/main/latest.zip",
     "RepoUrl": "https://github.com/Ninethirty77/the-greenzone-repo",
-    "LastUpdate": "1782836031"
+    "LastUpdate": "1782836881"
   }
 ]
