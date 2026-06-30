@@ -3,9 +3,9 @@
     "Author": "Ninethirty77",
     "Name": "The Studium",
     "InternalName": "FCMetrics",
-    "AssemblyVersion": "0.1.153.0",
+    "AssemblyVersion": "0.1.154.0",
     "Description": "Records observed Company Credits totals, shows weekly GC Seals tier progression, FC progress rings, an optional overlay, and a preview Studium Crafters workflow. Use /thestudium to open the window.",
-    "Changelog": "Studium Crafters status strip:\n- Adds personalized Crafters status messages before and after gear set selection.\n- Shows the chosen finished item count in the top workflow strip.\n- Tracks crafted item progress after Artisan starts by comparing finished gear inventory gains.",
+    "Changelog": "Studium Crafters status strip polish:\n- Updates the workflow strip to use first-name Crafters status messages.\n- Matches the GreenZone top-bar title font for the Crafters status text.\n- Adds a Show Overlay / Hide Overlay toggle on the Crafters workflow strip.",
     "ApplicableVersion": "any",
     "Tags": [
       "free company",
@@ -27,6 +27,6 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Ninethirty77/the-greenzone-repo/main/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Ninethirty77/the-greenzone-repo/main/latest.zip",
     "RepoUrl": "https://github.com/Ninethirty77/the-greenzone-repo",
-    "LastUpdate": "1782826267"
+    "LastUpdate": "1782827334"
   }
 ]

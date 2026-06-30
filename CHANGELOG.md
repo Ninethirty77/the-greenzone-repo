@@ -1,5 +1,10 @@
 # The GreenZone Changelog
 
+## 0.1.154
+- Updates the workflow strip to use first-name Crafters status messages.
+- Matches the GreenZone top-bar title font for the Crafters status text.
+- Adds a `Show Overlay` / `Hide Overlay` toggle on the Crafters workflow strip.
+
 ## 0.1.153
 - Adds personalized Crafters status messages before and after gear set selection.
 - Shows the chosen finished item count in the top workflow strip.
