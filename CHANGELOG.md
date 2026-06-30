@@ -1,5 +1,9 @@
 # The GreenZone Changelog
 
+## 0.1.161
+- Shows missing or short materials as `Out of stock` once all FC chest sections are confirmed loaded.
+- Keeps `Open FC Chest` for materials that still need FC chest data.
+
 ## 0.1.160
 - Hides raw FC chest quantities from the materials table.
 - Shows stocked materials as `In stock`.
