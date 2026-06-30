@@ -1,5 +1,10 @@
 # The GreenZone Changelog
 
+## 0.1.156
+- Opens the craft-set dropdown popup from the top instead of focusing the last selected row.
+- Styles category headers in larger Studium gold text.
+- Adds indentation and padding to gear set rows while preserving the selected-row highlight.
+
 ## 0.1.155
 - Makes the craft-set dropdown fill the queue panel width.
 - Gives the craft-set dropdown a taller click target for easier selection.
