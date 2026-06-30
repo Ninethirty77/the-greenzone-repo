@@ -1,5 +1,10 @@
 # The GreenZone Changelog
 
+## 0.1.155
+- Makes the craft-set dropdown fill the queue panel width.
+- Gives the craft-set dropdown a taller click target for easier selection.
+- Tightens the selected-item status message in the Crafters workflow strip.
+
 ## 0.1.154
 - Updates the workflow strip to use first-name Crafters status messages.
 - Matches the GreenZone top-bar title font for the Crafters status text.
