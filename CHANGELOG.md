@@ -1,5 +1,10 @@
 # The GreenZone Changelog
 
+## 0.1.160
+- Hides raw FC chest quantities from the materials table.
+- Shows stocked materials as `In stock`.
+- Adds a soft pulsing green state to the ready FC withdrawal and Artisan action buttons.
+
 ## 0.1.159
 - Changes the craft-set dropdown popup to three balanced columns.
 - Removes the thin section and column separator lines from the dropdown popup.
