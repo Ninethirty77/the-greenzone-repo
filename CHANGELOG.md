@@ -1,5 +1,10 @@
 # The GreenZone Changelog
 
+## 0.1.150
+- Adds `/tscrafters` as the direct command for the Studium Crafters module.
+- Keeps `/thestudium` focused on the main Studium window, settings, overlay, and clear actions.
+- Updates local dev workflow notes to use `/tscrafters`.
+
 ## 0.1.149
 - Closes the FC chest window after a successful Crafters withdrawal queue completes.
 - Keeps Artisan handoff unblocked after materials are withdrawn.
