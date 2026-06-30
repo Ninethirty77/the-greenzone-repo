@@ -3,9 +3,9 @@
     "Author": "Ninethirty77",
     "Name": "The Studium",
     "InternalName": "FCMetrics",
-    "AssemblyVersion": "0.1.156.0",
-    "Description": "Records observed Company Credits totals, shows weekly GC Seals tier progression, FC progress rings, an optional overlay, and a preview Studium Crafters workflow. Use /thestudium to open the window.",
-    "Changelog": "Studium Crafters dropdown polish:\n- Opens the craft-set dropdown popup from the top instead of focusing the last selected row.\n- Styles category headers in larger Studium gold text.\n- Adds indentation and padding to gear set rows while preserving the selected-row highlight.",
+    "AssemblyVersion": "0.1.157.0",
+    "Description": "The Studium app is an essential companion app for all Studium Members.",
+    "Changelog": "Studium plugin listing update:\n- Updates the Dalamud listing icon to the new The Studium logo.\n- Updates the plugin punchline and description for the Studium identity.",
     "ApplicableVersion": "any",
     "Tags": [
       "free company",
@@ -20,13 +20,13 @@
     "CanUnloadAsync": false,
     "LoadPriority": 0,
     "IconUrl": "https://raw.githubusercontent.com/Ninethirty77/the-greenzone-repo/main/icon.jpg",
-    "Punchline": "Tracks Company Credits over time.",
+    "Punchline": "An essential companion app for all Studium members.",
     "AcceptsFeedback": true,
     "IsHide": false,
     "IsTestingExclusive": false,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Ninethirty77/the-greenzone-repo/main/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Ninethirty77/the-greenzone-repo/main/latest.zip",
     "RepoUrl": "https://github.com/Ninethirty77/the-greenzone-repo",
-    "LastUpdate": "1782828858"
+    "LastUpdate": "1782829261"
   }
 ]

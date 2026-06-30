@@ -1,5 +1,9 @@
 # The GreenZone Changelog
 
+## 0.1.157
+- Updates the Dalamud listing icon to the new The Studium logo.
+- Updates the plugin punchline and description for the Studium identity.
+
 ## 0.1.156
 - Opens the craft-set dropdown popup from the top instead of focusing the last selected row.
 - Styles category headers in larger Studium gold text.
