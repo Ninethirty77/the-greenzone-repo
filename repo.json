@@ -3,9 +3,9 @@
     "Author": "Ninethirty77",
     "Name": "The Studium",
     "InternalName": "FCMetrics",
-    "AssemblyVersion": "0.1.151.0",
+    "AssemblyVersion": "0.1.152.0",
     "Description": "Records observed Company Credits totals, shows weekly GC Seals tier progression, FC progress rings, an optional overlay, and a preview Studium Crafters workflow. Use /thestudium to open the window.",
-    "Changelog": "Studium Crafters workflow polish:\n- Shows the Crafters window as The Studium v0.1.151 - Crafters.\n- Changes unavailable FC chest material rows to say Open FC Chest.\n- Marks fully withdrawn material rows as Transferred after FC chest withdrawal.",
+    "Changelog": "Studium Crafters layout polish:\n- Restyles the Crafters workflow to better match the GreenZone main window.\n- Adds a compact workflow status bar with stocked and transferred material progress.\n- Keeps transferred material status scoped to the active withdrawal plan.",
     "ApplicableVersion": "any",
     "Tags": [
       "free company",
@@ -27,6 +27,6 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Ninethirty77/the-greenzone-repo/main/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Ninethirty77/the-greenzone-repo/main/latest.zip",
     "RepoUrl": "https://github.com/Ninethirty77/the-greenzone-repo",
-    "LastUpdate": "1782822449"
+    "LastUpdate": "1782824380"
   }
 ]

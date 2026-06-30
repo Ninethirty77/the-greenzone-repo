@@ -1,5 +1,10 @@
 # The GreenZone Changelog
 
+## 0.1.152
+- Restyles the Crafters workflow to better match the GreenZone main window.
+- Adds a compact workflow status bar with stocked and transferred material progress.
+- Keeps transferred material status scoped to the active withdrawal plan.
+
 ## 0.1.151
 - Shows the Crafters window as `The Studium v0.1.151 - Crafters`.
 - Changes unavailable FC chest material rows to say `Open FC Chest`.
