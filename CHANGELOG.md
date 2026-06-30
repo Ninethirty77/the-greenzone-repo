@@ -1,5 +1,10 @@
 # The GreenZone Changelog
 
+## 0.1.147
+- Adds a visual queue so multiple crafting lists can be planned together.
+- Gives each queued list its own Gear, Accessories, and Tools / Weapon controls.
+- Aggregates duplicate finished items before material calculation, FC chest withdrawal, and Artisan handoff.
+
 ## 0.1.146
 - Groups crafting-list choices into DoW/M and Crafting / Gathering sections.
 - Makes the expanded hosted gear catalog easier to scan in the plugin.
