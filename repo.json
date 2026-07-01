@@ -3,9 +3,9 @@
     "Author": "Ninethirty77",
     "Name": "The Studium",
     "InternalName": "FCMetrics",
-    "AssemblyVersion": "0.1.162.0",
+    "AssemblyVersion": "0.1.163.0",
     "Description": "The Studium app is an essential companion app for all Studium Members.",
-    "Changelog": "Studium Crafters queue controls:\n- Removes the Clear queue button from the craft-set queue controls.",
+    "Changelog": "Studium access control:\n- Adds a central The Studium membership gate using the Lodestone FC roster.\n- Covers plugin windows with an access denied message for confirmed non-members.\n- Pauses background plugin work while access is denied.",
     "ApplicableVersion": "any",
     "Tags": [
       "free company",
@@ -27,6 +27,6 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Ninethirty77/the-greenzone-repo/main/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Ninethirty77/the-greenzone-repo/main/latest.zip",
     "RepoUrl": "https://github.com/Ninethirty77/the-greenzone-repo",
-    "LastUpdate": "1782836881"
+    "LastUpdate": "1782892717"
   }
 ]

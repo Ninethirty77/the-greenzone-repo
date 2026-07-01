@@ -1,5 +1,10 @@
 # The GreenZone Changelog
 
+## 0.1.163
+- Adds a central The Studium membership gate using the Lodestone FC roster.
+- Covers plugin windows with an access denied message for confirmed non-members.
+- Pauses background plugin work while access is denied.
+
 ## 0.1.162
 - Removes the `Clear queue` button from the craft-set queue controls.
 
