@@ -1,5 +1,9 @@
 # The GreenZone Changelog
 
+## 0.1.169
+- Restores automatic overlay height while keeping module navigation spacing consistent.
+- Adds a fixed gap above the GreenZone and Crafters overlay navigation buttons.
+
 ## 0.1.168
 - Pins the overlay module navigation to the bottom of a fixed-height overlay.
 - Makes GreenZone and Crafters overlay buttons open and close their matching module windows.
