@@ -1,5 +1,9 @@
 # The GreenZone Changelog
 
+## 0.1.171
+- Keeps the overlay bottom edge anchored when the overlay height changes.
+- Tightens spacing above the GreenZone and Crafters overlay navigation buttons.
+
 ## 0.1.170
 - Lets the compact overlay keep its user-adjusted size after the first placement.
 - Keeps the default overlay size for first-time placement.
