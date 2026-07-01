@@ -1,5 +1,9 @@
 # The GreenZone Changelog
 
+## 0.1.165
+- The overlay `Open` button now opens the main Studium window and the in-game Free Company window when opening.
+- Closing from the overlay still closes only the main Studium window.
+
 ## 0.1.164
 - Caches only successful member verification so a failed roster lookup cannot persistently lock out legitimate members.
 - Normalizes Lodestone character names before access checks.
