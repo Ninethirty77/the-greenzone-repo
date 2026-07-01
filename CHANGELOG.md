@@ -1,5 +1,10 @@
 # The GreenZone Changelog
 
+## 0.1.168
+- Pins the overlay module navigation to the bottom of a fixed-height overlay.
+- Makes GreenZone and Crafters overlay buttons open and close their matching module windows.
+- Keeps GreenZone paired with the in-game Free Company window when opened or closed from the overlay.
+
 ## 0.1.167
 - Adds GreenZone and Crafters states to the compact overlay.
 - Adds Crafters overlay status for FC chest sync and craft-set data.
