@@ -1,5 +1,9 @@
 # The GreenZone Changelog
 
+## 0.1.170
+- Lets the compact overlay keep its user-adjusted size after the first placement.
+- Keeps the default overlay size for first-time placement.
+
 ## 0.1.169
 - Restores automatic overlay height while keeping module navigation spacing consistent.
 - Adds a fixed gap above the GreenZone and Crafters overlay navigation buttons.
