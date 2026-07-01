@@ -3,9 +3,9 @@
     "Author": "Ninethirty77",
     "Name": "The Studium",
     "InternalName": "FCMetrics",
-    "AssemblyVersion": "0.1.165.0",
+    "AssemblyVersion": "0.1.166.0",
     "Description": "The Studium app is an essential companion app for all Studium Members.",
-    "Changelog": "Studium overlay controls:\n- The overlay Open button now opens the main Studium window and the in-game Free Company window when opening.\n- Closing from the overlay still closes only the main Studium window.",
+    "Changelog": "Studium command architecture:\n- Adds /studium as the new module hub command.\n- Changes the Crafters module command from /tscrafters to /crafters.\n- Restores /greenzone as the command for the existing GreenZone window.",
     "ApplicableVersion": "any",
     "Tags": [
       "free company",
@@ -27,6 +27,6 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Ninethirty77/the-greenzone-repo/main/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Ninethirty77/the-greenzone-repo/main/latest.zip",
     "RepoUrl": "https://github.com/Ninethirty77/the-greenzone-repo",
-    "LastUpdate": "1782911450"
+    "LastUpdate": "1782915389"
   }
 ]

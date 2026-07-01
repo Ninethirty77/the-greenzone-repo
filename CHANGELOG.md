@@ -1,5 +1,10 @@
 # The GreenZone Changelog
 
+## 0.1.166
+- Adds `/studium` as the new module hub command.
+- Changes the Crafters module command from `/tscrafters` to `/crafters`.
+- Restores `/greenzone` as the command for the existing GreenZone window.
+
 ## 0.1.165
 - The overlay `Open` button now opens the main Studium window and the in-game Free Company window when opening.
 - Closing from the overlay still closes only the main Studium window.
