@@ -1,5 +1,10 @@
 # The GreenZone Changelog
 
+## 0.1.167
+- Adds GreenZone and Crafters states to the compact overlay.
+- Adds Crafters overlay status for FC chest sync and craft-set data.
+- Adds quick FC chest and manual sync controls from the Crafters overlay state.
+
 ## 0.1.166
 - Adds `/studium` as the new module hub command.
 - Changes the Crafters module command from `/tscrafters` to `/crafters`.
