@@ -1,5 +1,10 @@
 # The GreenZone Changelog
 
+## 0.1.164
+- Caches only successful member verification so a failed roster lookup cannot persistently lock out legitimate members.
+- Normalizes Lodestone character names before access checks.
+- Improves the access denied window message layout.
+
 ## 0.1.163
 - Adds a central The Studium membership gate using the Lodestone FC roster.
 - Covers plugin windows with an access denied message for confirmed non-members.
