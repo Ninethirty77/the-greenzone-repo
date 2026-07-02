@@ -1,5 +1,8 @@
 # The GreenZone Changelog
 
+## 0.1.192
+- Adds a centered gold workflow prompt beneath queued gear sets for FC chest sync, withdrawal, and Artisan handoff.
+
 ## 0.1.191
 - Clarifies the rank access message as FC Chest Access granted or denied.
 
