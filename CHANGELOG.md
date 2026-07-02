@@ -1,5 +1,8 @@
 # The GreenZone Changelog
 
+## 0.1.184
+- Uses embedded PNG toggle marks for queued gear-set section controls.
+
 ## 0.1.183
 - Refines queued gear-set row spacing and reduces the tick marker size.
 

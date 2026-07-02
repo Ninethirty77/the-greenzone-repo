@@ -3,9 +3,9 @@
     "Author": "Ninethirty77",
     "Name": "The Studium",
     "InternalName": "FCMetrics",
-    "AssemblyVersion": "0.1.183.0",
+    "AssemblyVersion": "0.1.184.0",
     "Description": "The Studium app is an essential companion app for all Studium Members.",
-    "Changelog": "Studium Crafters queue layout:\n- Refines queued gear-set row spacing and reduces the tick marker size.",
+    "Changelog": "Studium Crafters queue layout:\n- Uses embedded PNG toggle marks for queued gear-set section controls.",
     "ApplicableVersion": "any",
     "Tags": [
       "free company",
@@ -27,6 +27,6 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Ninethirty77/the-greenzone-repo/main/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Ninethirty77/the-greenzone-repo/main/latest.zip",
     "RepoUrl": "https://github.com/Ninethirty77/the-greenzone-repo",
-    "LastUpdate": "1782988705"
+    "LastUpdate": "1782989195"
   }
 ]
