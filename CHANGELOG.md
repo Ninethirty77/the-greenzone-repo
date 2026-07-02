@@ -1,5 +1,9 @@
 # The GreenZone Changelog
 
+## 0.1.175
+- Looks up the active member directly in the Lodestone roster instead of scraping the full roster before resolving their rank.
+- Caps rank lookup at four seconds and avoids leaving the Crafters rank line stuck on Checking rank between retries.
+
 ## 0.1.174
 - Appends an FC chest access message to the member rank line above the Crafters gear-set selector.
 - Shows access granted for FC chest-capable ranks and a Studium Crafter role requirement for other known ranks.
