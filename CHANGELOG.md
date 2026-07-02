@@ -1,5 +1,9 @@
 # The GreenZone Changelog
 
+## 0.1.173
+- Caches each verified member's Lodestone FC rank during Studium access checks.
+- Shows the active member name and FC rank above the Crafters gear-set selector with rank-based coloring.
+
 ## 0.1.172
 - Moves the FC chest withdrawal and Artisan craft buttons directly under the queued gear-set list.
 - Leaves the lower action panel focused on notifications and logging.
