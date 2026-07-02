@@ -1,5 +1,8 @@
 # The GreenZone Changelog
 
+## 0.1.185
+- Expands queued gear-set rows to use the full panel width.
+
 ## 0.1.184
 - Uses embedded PNG toggle marks for queued gear-set section controls.
 
