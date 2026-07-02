@@ -1,5 +1,8 @@
 # The GreenZone Changelog
 
+## 0.1.182
+- Replaces the queued gear-set table with custom rounded rows, gold headers, large tick toggles, and a rounded Remove button.
+
 ## 0.1.181
 - Splits the member rank and FC chest access line into clearer colored segments.
 
