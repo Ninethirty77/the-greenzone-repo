@@ -1,5 +1,8 @@
 # The GreenZone Changelog
 
+## 0.1.179
+- Nudges the lower status and logging panel up by 5px.
+
 ## 0.1.178
 - Tightens the spacing after the gear-set selector panel to match the reduced spacing above it.
 
