@@ -1,5 +1,8 @@
 # The GreenZone Changelog
 
+## 0.1.191
+- Clarifies the rank access message as FC Chest Access granted or denied.
+
 ## 0.1.190
 - Lets the selected gear-set panel grow without its own scrollbar.
 - Removes the Crafters progress-strip overlay toggle and refines queued-row animation timing.
