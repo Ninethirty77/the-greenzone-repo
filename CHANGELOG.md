@@ -1,5 +1,8 @@
 # The GreenZone Changelog
 
+## 0.1.181
+- Splits the member rank and FC chest access line into clearer colored segments.
+
 ## 0.1.180
 - Nudges the lower status and logging panel up by 9px.
 
