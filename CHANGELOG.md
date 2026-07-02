@@ -1,5 +1,8 @@
 # The GreenZone Changelog
 
+## 0.1.187
+- Centers the FC chest and Artisan actions as smaller rounded pill buttons.
+
 ## 0.1.186
 - Moves the FC chest and Artisan actions into their own panel with larger labels.
 
