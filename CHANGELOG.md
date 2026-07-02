@@ -1,5 +1,8 @@
 # The GreenZone Changelog
 
+## 0.1.186
+- Moves the FC chest and Artisan actions into their own panel with larger labels.
+
 ## 0.1.185
 - Expands queued gear-set rows to use the full panel width.
 
