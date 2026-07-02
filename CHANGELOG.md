@@ -1,5 +1,9 @@
 # The GreenZone Changelog
 
+## 0.1.172
+- Moves the FC chest withdrawal and Artisan craft buttons directly under the queued gear-set list.
+- Leaves the lower action panel focused on notifications and logging.
+
 ## 0.1.171
 - Keeps the overlay bottom edge anchored when the overlay height changes.
 - Tightens spacing above the GreenZone and Crafters overlay navigation buttons.
