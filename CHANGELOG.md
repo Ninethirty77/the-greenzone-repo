@@ -1,5 +1,10 @@
 # The GreenZone Changelog
 
+## 0.1.190
+- Lets the selected gear-set panel grow without its own scrollbar.
+- Removes the Crafters progress-strip overlay toggle and refines queued-row animation timing.
+- Keeps inactive action buttons visually static until ready.
+
 ## 0.1.189
 - Restores the top progress strip to the larger title font while keeping smaller action button text.
 - Animates newly added queued gear-set rows with an eased slide and fade-in.
