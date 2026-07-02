@@ -1,5 +1,9 @@
 # The GreenZone Changelog
 
+## 0.1.189
+- Restores the top progress strip to the larger title font while keeping smaller action button text.
+- Animates newly added queued gear-set rows with an eased slide and fade-in.
+
 ## 0.1.188
 - Uses dark grey inactive action buttons, smaller sharp labels, a tighter gap, and more space below the button row.
 - Removes the lower notification panel so the materials table fills the available space.
