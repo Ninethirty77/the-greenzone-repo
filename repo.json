@@ -3,9 +3,9 @@
     "Author": "Ninethirty77",
     "Name": "The Studium",
     "InternalName": "FCMetrics",
-    "AssemblyVersion": "0.1.176.0",
+    "AssemblyVersion": "0.1.177.0",
     "Description": "The Studium app is an essential companion app for all Studium Members.",
-    "Changelog": "Studium Crafters rank lookup:\n- Fixes Lodestone rank matching by stripping the active character's @World suffix before comparing roster names.\n- Lets the Crafters window nudge the background access/rank check immediately when opened.",
+    "Changelog": "Studium Crafters selector polish:\n- Updates the gear-set selector prompt to Select gear sets to craft with extra inset and an illuminated idle frame.\n- Removes the empty queued-list message and shortens the empty selector panel.",
     "ApplicableVersion": "any",
     "Tags": [
       "free company",
@@ -27,6 +27,6 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Ninethirty77/the-greenzone-repo/main/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Ninethirty77/the-greenzone-repo/main/latest.zip",
     "RepoUrl": "https://github.com/Ninethirty77/the-greenzone-repo",
-    "LastUpdate": "1782983603"
+    "LastUpdate": "1782984377"
   }
 ]

@@ -1,5 +1,9 @@
 # The GreenZone Changelog
 
+## 0.1.177
+- Updates the gear-set selector prompt to Select gear sets to craft with extra inset and an illuminated idle frame.
+- Removes the empty queued-list message and shortens the empty selector panel.
+
 ## 0.1.176
 - Fixes Lodestone rank matching by stripping the active character's @World suffix before comparing roster names.
 - Lets the Crafters window nudge the background access/rank check immediately when opened.
