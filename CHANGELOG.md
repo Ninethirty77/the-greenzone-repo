@@ -1,5 +1,9 @@
 # The GreenZone Changelog
 
+## 0.1.176
+- Fixes Lodestone rank matching by stripping the active character's @World suffix before comparing roster names.
+- Lets the Crafters window nudge the background access/rank check immediately when opened.
+
 ## 0.1.175
 - Looks up the active member directly in the Lodestone roster instead of scraping the full roster before resolving their rank.
 - Caps rank lookup at four seconds and avoids leaving the Crafters rank line stuck on Checking rank between retries.
