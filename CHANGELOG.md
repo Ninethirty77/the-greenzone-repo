@@ -1,5 +1,8 @@
 # The GreenZone Changelog
 
+## 0.1.180
+- Nudges the lower status and logging panel up by 9px.
+
 ## 0.1.179
 - Nudges the lower status and logging panel up by 5px.
 
