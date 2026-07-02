@@ -3,9 +3,9 @@
     "Author": "Ninethirty77",
     "Name": "The Studium",
     "InternalName": "FCMetrics",
-    "AssemblyVersion": "0.1.177.0",
+    "AssemblyVersion": "0.1.178.0",
     "Description": "The Studium app is an essential companion app for all Studium Members.",
-    "Changelog": "Studium Crafters selector polish:\n- Updates the gear-set selector prompt to Select gear sets to craft with extra inset and an illuminated idle frame.\n- Removes the empty queued-list message and shortens the empty selector panel.",
+    "Changelog": "Studium Crafters spacing:\n- Tightens the spacing after the gear-set selector panel to match the reduced spacing above it.",
     "ApplicableVersion": "any",
     "Tags": [
       "free company",
@@ -27,6 +27,6 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Ninethirty77/the-greenzone-repo/main/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Ninethirty77/the-greenzone-repo/main/latest.zip",
     "RepoUrl": "https://github.com/Ninethirty77/the-greenzone-repo",
-    "LastUpdate": "1782984377"
+    "LastUpdate": "1782985015"
   }
 ]

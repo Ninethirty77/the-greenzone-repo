@@ -1,5 +1,8 @@
 # The GreenZone Changelog
 
+## 0.1.178
+- Tightens the spacing after the gear-set selector panel to match the reduced spacing above it.
+
 ## 0.1.177
 - Updates the gear-set selector prompt to Select gear sets to craft with extra inset and an illuminated idle frame.
 - Removes the empty queued-list message and shortens the empty selector panel.
