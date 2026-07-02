@@ -1,5 +1,8 @@
 # The GreenZone Changelog
 
+## 0.1.183
+- Refines queued gear-set row spacing and reduces the tick marker size.
+
 ## 0.1.182
 - Replaces the queued gear-set table with custom rounded rows, gold headers, large tick toggles, and a rounded Remove button.
 
