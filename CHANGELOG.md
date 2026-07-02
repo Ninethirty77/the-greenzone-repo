@@ -1,5 +1,9 @@
 # The GreenZone Changelog
 
+## 0.1.174
+- Appends an FC chest access message to the member rank line above the Crafters gear-set selector.
+- Shows access granted for FC chest-capable ranks and a Studium Crafter role requirement for other known ranks.
+
 ## 0.1.173
 - Caches each verified member's Lodestone FC rank during Studium access checks.
 - Shows the active member name and FC rank above the Crafters gear-set selector with rank-based coloring.
