@@ -1,5 +1,10 @@
 # The GreenZone Changelog
 
+## 0.1.199
+- Adds Craft progress title and total craft time display after Artisan starts.
+- Logs completed craft-time records locally for future dashboard work.
+- Widens material pills, keeps pill text white, and darkens the donut track.
+
 ## 0.1.198
 - Animates material pill transfer fill over one second with easing.
 - Adds a Transfer progress title above the donut and uses the transferred-pill green for the donut arc.
