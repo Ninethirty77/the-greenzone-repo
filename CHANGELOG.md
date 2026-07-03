@@ -1,5 +1,9 @@
 # The GreenZone Changelog
 
+## 0.1.203
+- Adds the Studium masthead image to the compact overlay.
+- Right-aligns and slightly raises the Crafters floating action buttons.
+
 ## 0.1.202
 - Tightens material panel spacing and fades detail columns during crafting.
 - Shows remaining material counts while crafting.
