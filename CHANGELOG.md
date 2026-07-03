@@ -1,5 +1,10 @@
 # The GreenZone Changelog
 
+## 0.1.193
+- Fails closed when FC chest item moves are not confirmed.
+- Keeps Artisan locked until required transfer counts are satisfied.
+- Retries only remaining untransferred materials and handles full crystal inventory rows.
+
 ## 0.1.192
 - Adds a centered gold workflow prompt beneath queued gear sets for FC chest sync, withdrawal, and Artisan handoff.
 
