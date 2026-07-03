@@ -1,5 +1,9 @@
 # The GreenZone Changelog
 
+## 0.1.200
+- Keeps Craft with Artisan disabled after a queued plan has already been handed off.
+- Lets material transfer fills recede as materials are consumed during crafting.
+
 ## 0.1.199
 - Adds Craft progress title and total craft time display after Artisan starts.
 - Logs completed craft-time records locally for future dashboard work.
