@@ -1,5 +1,9 @@
 # The GreenZone Changelog
 
+## 0.1.196
+- Unlocks Craft with Artisan after FC chest transfer completion even when personal inventory did not already satisfy the plan.
+- Compares transfer completion against required withdrawal amounts, including crystal-cap skips.
+
 ## 0.1.195
 - Rebuilds Crafters plans only when queue/options change.
 - Refreshes FC chest previews from chest activity instead of a fixed loop.
