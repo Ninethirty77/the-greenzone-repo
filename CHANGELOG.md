@@ -1,5 +1,8 @@
 # The GreenZone Changelog
 
+## 0.1.201
+- Publishes the current verified The Studium plugin source to the live repository.
+
 ## 0.1.200
 - Keeps Craft with Artisan disabled after a queued plan has already been handed off.
 - Lets material transfer fills recede as materials are consumed during crafting.
