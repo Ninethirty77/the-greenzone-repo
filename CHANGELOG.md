@@ -1,5 +1,9 @@
 # The GreenZone Changelog
 
+## 0.1.204
+- Keeps retrying masthead image loading until the texture is available.
+- Shows a The Studium text fallback if the masthead image is not loaded yet.
+
 ## 0.1.203
 - Adds the Studium masthead image to the compact overlay.
 - Right-aligns and slightly raises the Crafters floating action buttons.
