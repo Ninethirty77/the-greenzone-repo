@@ -1,5 +1,10 @@
 # The GreenZone Changelog
 
+## 0.1.202
+- Tightens material panel spacing and fades detail columns during crafting.
+- Shows remaining material counts while crafting.
+- Adds inactive and lifetime craft-time displays.
+
 ## 0.1.201
 - Publishes the current verified The Studium plugin source to the live repository.
 
