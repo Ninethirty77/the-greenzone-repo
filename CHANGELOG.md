@@ -1,5 +1,9 @@
 # The GreenZone Changelog
 
+## 0.1.197
+- Replaces the default materials table with compact custom pill rows.
+- Shows grey unavailable rows, green in-stock rows, and lighter green transfer fill as materials move.
+
 ## 0.1.196
 - Unlocks Craft with Artisan after FC chest transfer completion even when personal inventory did not already satisfy the plan.
 - Compares transfer completion against required withdrawal amounts, including crystal-cap skips.

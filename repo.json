@@ -3,9 +3,9 @@
     "Author": "Ninethirty77",
     "Name": "The Studium",
     "InternalName": "FCMetrics",
-    "AssemblyVersion": "0.1.196.0",
+    "AssemblyVersion": "0.1.197.0",
     "Description": "The Studium app is an essential companion app for all Studium Members.",
-    "Changelog": "Studium Crafters Artisan readiness:\n- Unlocks Craft with Artisan after FC chest transfer completion even when personal inventory did not already satisfy the plan.\n- Compares transfer completion against required withdrawal amounts, including crystal-cap skips.",
+    "Changelog": "Studium Crafters materials display:\n- Replaces the default materials table with compact custom pill rows.\n- Shows grey unavailable rows, green in-stock rows, and lighter green transfer fill as materials move.",
     "ApplicableVersion": "any",
     "Tags": [
       "free company",
@@ -27,6 +27,6 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Ninethirty77/the-greenzone-repo/main/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Ninethirty77/the-greenzone-repo/main/latest.zip",
     "RepoUrl": "https://github.com/Ninethirty77/the-greenzone-repo",
-    "LastUpdate": "1783073829"
+    "LastUpdate": "1783074483"
   }
 ]
