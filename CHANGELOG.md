@@ -1,5 +1,9 @@
 # The GreenZone Changelog
 
+## 0.1.194
+- Splits the materials area into a left materials table and right progress donut.
+- Shows FC chest stack-move progress before Artisan, then crafting progress after Artisan handoff starts.
+
 ## 0.1.193
 - Fails closed when FC chest item moves are not confirmed.
 - Keeps Artisan locked until required transfer counts are satisfied.
