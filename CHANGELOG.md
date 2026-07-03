@@ -1,5 +1,10 @@
 # The GreenZone Changelog
 
+## 0.1.195
+- Rebuilds Crafters plans only when queue/options change.
+- Refreshes FC chest previews from chest activity instead of a fixed loop.
+- Reduces inventory polling and caches progress-donut state briefly.
+
 ## 0.1.194
 - Splits the materials area into a left materials table and right progress donut.
 - Shows FC chest stack-move progress before Artisan, then crafting progress after Artisan handoff starts.
