@@ -1,5 +1,9 @@
 # The GreenZone Changelog
 
+## 0.1.207
+- Loads the embedded masthead image through Dalamud's async image texture path.
+- Keeps the text fallback visible until the masthead texture is ready.
+
 ## 0.1.206
 - Draws the masthead into a fixed slot so the overlay layout stays stable.
 - Ignores tiny height changes when preserving the overlay bottom anchor.
