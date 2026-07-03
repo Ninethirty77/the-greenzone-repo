@@ -3,9 +3,9 @@
     "Author": "Ninethirty77",
     "Name": "The Studium",
     "InternalName": "FCMetrics",
-    "AssemblyVersion": "0.1.205.0",
+    "AssemblyVersion": "0.1.206.0",
     "Description": "The Studium app is an essential companion app for all Studium Members.",
-    "Changelog": "Studium overlay masthead polish:\n- Uses a compact 176x60 masthead asset for the overlay.\n- Falls back cleanly if the masthead texture handle is unavailable or disposed.",
+    "Changelog": "Studium overlay masthead layout fix:\n- Draws the masthead into a fixed slot so the overlay layout stays stable.\n- Ignores tiny height changes when preserving the overlay bottom anchor.",
     "ApplicableVersion": "any",
     "Tags": [
       "free company",
@@ -27,6 +27,6 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Ninethirty77/the-greenzone-repo/main/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Ninethirty77/the-greenzone-repo/main/latest.zip",
     "RepoUrl": "https://github.com/Ninethirty77/the-greenzone-repo",
-    "LastUpdate": "1783085670"
+    "LastUpdate": "1783086241"
   }
 ]

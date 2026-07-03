@@ -1,5 +1,9 @@
 # The GreenZone Changelog
 
+## 0.1.206
+- Draws the masthead into a fixed slot so the overlay layout stays stable.
+- Ignores tiny height changes when preserving the overlay bottom anchor.
+
 ## 0.1.205
 - Uses a compact 176x60 masthead asset for the overlay.
 - Falls back cleanly if the masthead texture handle is unavailable or disposed.
