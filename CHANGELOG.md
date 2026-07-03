@@ -1,5 +1,9 @@
 # The GreenZone Changelog
 
+## 0.1.205
+- Uses a compact 176x60 masthead asset for the overlay.
+- Falls back cleanly if the masthead texture handle is unavailable or disposed.
+
 ## 0.1.204
 - Keeps retrying masthead image loading until the texture is available.
 - Shows a The Studium text fallback if the masthead image is not loaded yet.
