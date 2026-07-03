@@ -3,9 +3,9 @@
     "Author": "Ninethirty77",
     "Name": "The Studium",
     "InternalName": "FCMetrics",
-    "AssemblyVersion": "0.1.197.0",
+    "AssemblyVersion": "0.1.198.0",
     "Description": "The Studium app is an essential companion app for all Studium Members.",
-    "Changelog": "Studium Crafters materials display:\n- Replaces the default materials table with compact custom pill rows.\n- Shows grey unavailable rows, green in-stock rows, and lighter green transfer fill as materials move.",
+    "Changelog": "Studium Crafters progress animation:\n- Animates material pill transfer fill over one second with easing.\n- Adds a Transfer progress title above the donut and uses the transferred-pill green for the donut arc.\n- Smooths donut progress transitions and positions the donut under the title.",
     "ApplicableVersion": "any",
     "Tags": [
       "free company",
@@ -27,6 +27,6 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Ninethirty77/the-greenzone-repo/main/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Ninethirty77/the-greenzone-repo/main/latest.zip",
     "RepoUrl": "https://github.com/Ninethirty77/the-greenzone-repo",
-    "LastUpdate": "1783074483"
+    "LastUpdate": "1783075411"
   }
 ]

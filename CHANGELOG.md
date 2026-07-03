@@ -1,5 +1,10 @@
 # The GreenZone Changelog
 
+## 0.1.198
+- Animates material pill transfer fill over one second with easing.
+- Adds a Transfer progress title above the donut and uses the transferred-pill green for the donut arc.
+- Smooths donut progress transitions and positions the donut under the title.
+
 ## 0.1.197
 - Replaces the default materials table with compact custom pill rows.
 - Shows grey unavailable rows, green in-stock rows, and lighter green transfer fill as materials move.
