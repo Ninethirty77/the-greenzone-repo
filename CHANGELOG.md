@@ -1,5 +1,9 @@
 # The GreenZone Changelog
 
+## 0.1.208
+- Adds aggregate Crafters stats from local completed craft-time records.
+- Includes sets made and lifetime craft seconds in the Community heartbeat without detailed craft history.
+
 ## 0.1.207
 - Loads the embedded masthead image through Dalamud's async image texture path.
 - Keeps the text fallback visible until the masthead texture is ready.
