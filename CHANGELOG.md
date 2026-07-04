@@ -1,5 +1,8 @@
 # The GreenZone Changelog
 
+## 0.1.209
+- Republishes the current verified The Studium plugin source to the live repository.
+
 ## 0.1.208
 - Adds aggregate Crafters stats from local completed craft-time records.
 - Includes sets made and lifetime craft seconds in the Community heartbeat without detailed craft history.
