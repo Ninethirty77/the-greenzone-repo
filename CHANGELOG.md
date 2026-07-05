@@ -1,5 +1,8 @@
 # The GreenZone Changelog
 
+## 0.1.210
+- Aligns the overlay challenge week label with the community dashboard challenge week numbering.
+
 ## 0.1.209
 - Republishes the current verified The Studium plugin source to the live repository.
 
