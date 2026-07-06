@@ -1,5 +1,8 @@
 # The GreenZone Changelog
 
+## 0.1.211
+- Makes Week 8 canonical from Monday 6 July 2026 at 9am AEST across the GreenZone module, overlay and shared weekly target validation.
+
 ## 0.1.210
 - Aligns the overlay challenge week label with the community dashboard challenge week numbering.
 
