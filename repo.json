@@ -3,9 +3,9 @@
     "Author": "Ninethirty77",
     "Name": "The Studium",
     "InternalName": "FCMetrics",
-    "AssemblyVersion": "0.1.215.0",
+    "AssemblyVersion": "0.1.216.0",
     "Description": "The Studium app is an essential companion app for all Studium Members.",
-    "Changelog": "GreenZone overlay progress display:\n- Adds a thin weekly reset progress ring around the seals tier ring.\n- Moves the tier label into the ring and simplifies the earned reward text.",
+    "Changelog": "GreenZone overlay layout:\n- Tightens the GreenZone overlay content and navigation spacing.\n- Improves the tier and weekly challenge label placement.",
     "ApplicableVersion": "any",
     "Tags": [
       "free company",
@@ -27,6 +27,6 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Ninethirty77/the-greenzone-repo/main/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Ninethirty77/the-greenzone-repo/main/latest.zip",
     "RepoUrl": "https://github.com/Ninethirty77/the-greenzone-repo",
-    "LastUpdate": "1784011173"
+    "LastUpdate": "1784013226"
   }
 ]

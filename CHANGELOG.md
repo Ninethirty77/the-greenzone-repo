@@ -1,5 +1,9 @@
 # The GreenZone Changelog
 
+## 0.1.216
+- Tightens the GreenZone overlay content and navigation spacing.
+- Improves the tier and weekly challenge label placement.
+
 ## 0.1.215
 - Adds a thin weekly reset progress ring around the seals tier ring.
 - Moves the tier label into the ring and simplifies the earned reward text.
