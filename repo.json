@@ -3,9 +3,9 @@
     "Author": "Ninethirty77",
     "Name": "The Studium",
     "InternalName": "FCMetrics",
-    "AssemblyVersion": "0.1.217.0",
+    "AssemblyVersion": "0.1.218.0",
     "Description": "The Studium app is an essential companion app for all Studium Members.",
-    "Changelog": "GreenZone overlay refinements:\n- Uses Studium blue for the active module button.\n- Adjusts overlay content and reward spacing.",
+    "Changelog": "GreenZone overlay refinement:\n- Adds a consistent left inset for compact overlay content.",
     "ApplicableVersion": "any",
     "Tags": [
       "free company",
@@ -27,6 +27,6 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Ninethirty77/the-greenzone-repo/main/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Ninethirty77/the-greenzone-repo/main/latest.zip",
     "RepoUrl": "https://github.com/Ninethirty77/the-greenzone-repo",
-    "LastUpdate": "1784013992"
+    "LastUpdate": "1784015118"
   }
 ]

@@ -1,5 +1,8 @@
 # The GreenZone Changelog
 
+## 0.1.218
+- Adds a consistent left inset for compact overlay content.
+
 ## 0.1.217
 - Uses Studium blue for the active overlay module button.
 - Adjusts overlay content and reward spacing.
