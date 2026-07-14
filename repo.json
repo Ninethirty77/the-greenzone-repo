@@ -3,9 +3,9 @@
     "Author": "Ninethirty77",
     "Name": "The Studium",
     "InternalName": "FCMetrics",
-    "AssemblyVersion": "0.1.212.0",
+    "AssemblyVersion": "0.1.213.0",
     "Description": "The Studium app is an essential companion app for all Studium Members.",
-    "Changelog": "GreenZone seals reward tiers:\n- Updates the weekly seals challenge to six non-cumulative reward tiers.\n- Keeps tier labels and highest-tier styling driven by the active tier table.",
+    "Changelog": "GreenZone standings display:\n- Shows the top four weekly standings entries in the GreenZone module.\n- Increases the main GreenZone window height so the expanded standings panel has room.",
     "ApplicableVersion": "any",
     "Tags": [
       "free company",
@@ -27,6 +27,6 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Ninethirty77/the-greenzone-repo/main/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Ninethirty77/the-greenzone-repo/main/latest.zip",
     "RepoUrl": "https://github.com/Ninethirty77/the-greenzone-repo",
-    "LastUpdate": "1783987682"
+    "LastUpdate": "1783989166"
   }
 ]

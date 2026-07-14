@@ -1,5 +1,9 @@
 # The GreenZone Changelog
 
+## 0.1.213
+- Shows the top four weekly standings entries in the GreenZone module.
+- Increases the main GreenZone window height so the expanded standings panel has room.
+
 ## 0.1.212
 - Updates the weekly seals challenge to six non-cumulative reward tiers.
 - Keeps tier labels and highest-tier styling driven by the active tier table.
