@@ -1,5 +1,9 @@
 # The GreenZone Changelog
 
+## 0.1.215
+- Adds a thin weekly reset progress ring around the seals tier ring.
+- Moves the tier label into the ring and simplifies the earned reward text.
+
 ## 0.1.214
 - Fine-tunes the expanded weekly standings row spacing for the fourth entry.
 - Slightly reduces the main GreenZone window height after the standings expansion.
