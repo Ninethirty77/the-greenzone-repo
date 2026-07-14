@@ -1,5 +1,9 @@
 # The GreenZone Changelog
 
+## 0.1.217
+- Uses Studium blue for the active overlay module button.
+- Adjusts overlay content and reward spacing.
+
 ## 0.1.216
 - Tightens the GreenZone overlay content and navigation spacing.
 - Improves the tier and weekly challenge label placement.
