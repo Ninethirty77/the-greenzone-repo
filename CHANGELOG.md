@@ -1,5 +1,8 @@
 # The GreenZone Changelog
 
+## 0.1.219
+- Refines compact overlay panel corners and right content spacing.
+
 ## 0.1.218
 - Adds a consistent left inset for compact overlay content.
 
