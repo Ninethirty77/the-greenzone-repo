@@ -1,5 +1,9 @@
 # The GreenZone Changelog
 
+## 0.1.214
+- Fine-tunes the expanded weekly standings row spacing for the fourth entry.
+- Slightly reduces the main GreenZone window height after the standings expansion.
+
 ## 0.1.213
 - Shows the top four weekly standings entries in the GreenZone module.
 - Increases the main GreenZone window height so the expanded standings panel has room.
