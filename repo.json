@@ -3,9 +3,9 @@
     "Author": "Ninethirty77",
     "Name": "The Studium",
     "InternalName": "FCMetrics",
-    "AssemblyVersion": "0.1.219.0",
+    "AssemblyVersion": "0.1.220.0",
     "Description": "The Studium app is an essential companion app for all Studium Members.",
-    "Changelog": "GreenZone overlay refinement:\n- Refines compact panel corners and right content spacing.",
+    "Changelog": "GreenZone overlay status:\n- Animates active and inactive GreenZone status messaging.\n- Refines compact overlay frame and content spacing.",
     "ApplicableVersion": "any",
     "Tags": [
       "free company",
@@ -27,6 +27,6 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Ninethirty77/the-greenzone-repo/main/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Ninethirty77/the-greenzone-repo/main/latest.zip",
     "RepoUrl": "https://github.com/Ninethirty77/the-greenzone-repo",
-    "LastUpdate": "1784015801"
+    "LastUpdate": "1784016719"
   }
 ]

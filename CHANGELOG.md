@@ -1,5 +1,9 @@
 # The GreenZone Changelog
 
+## 0.1.220
+- Animates active and inactive GreenZone status messaging in the compact overlay.
+- Refines compact overlay frame and content spacing.
+
 ## 0.1.219
 - Refines compact overlay panel corners and right content spacing.
 
