@@ -1,5 +1,8 @@
 # The GreenZone Changelog
 
+## 0.1.221
+- Keeps compact overlay reward-area spacing consistent when no tier reward is earned.
+
 ## 0.1.220
 - Animates active and inactive GreenZone status messaging in the compact overlay.
 - Refines compact overlay frame and content spacing.
