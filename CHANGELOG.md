@@ -1,5 +1,9 @@
 # The GreenZone Changelog
 
+## 0.1.212
+- Updates the weekly seals challenge to six non-cumulative reward tiers.
+- Keeps tier labels and highest-tier styling driven by the active tier table.
+
 ## 0.1.211
 - Makes Week 8 canonical from Monday 6 July 2026 at 9am AEST across the GreenZone module, overlay and shared weekly target validation.
 
