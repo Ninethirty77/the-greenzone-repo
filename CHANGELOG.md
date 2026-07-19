@@ -1,5 +1,8 @@
 # The GreenZone Changelog
 
+## 0.1.224
+- Fine-tunes fourth-place standings row and separator alignment.
+
 ## 0.1.223
 - Records FC chat activity as privacy-limited speaker and ten-minute bucket data only.
 - Adds matching Community and Progress dashboard activity support.

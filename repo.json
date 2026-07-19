@@ -3,9 +3,9 @@
     "Author": "Ninethirty77",
     "Name": "The Studium",
     "InternalName": "FCMetrics",
-    "AssemblyVersion": "0.1.223.0",
+    "AssemblyVersion": "0.1.224.0",
     "Description": "The Studium app is an essential companion app for all Studium Members.",
-    "Changelog": "Studium Community activity:\n- Records FC chat activity as privacy-limited speaker and ten-minute bucket data only.\n- Adds matching Community and Progress dashboard activity support.",
+    "Changelog": "GreenZone standings refinement:\n- Fine-tunes fourth-place row and separator alignment.",
     "ApplicableVersion": "any",
     "Tags": [
       "free company",
@@ -27,6 +27,6 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Ninethirty77/the-greenzone-repo/main/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Ninethirty77/the-greenzone-repo/main/latest.zip",
     "RepoUrl": "https://github.com/Ninethirty77/the-greenzone-repo",
-    "LastUpdate": "1784458500"
+    "LastUpdate": "1784459483"
   }
 ]
