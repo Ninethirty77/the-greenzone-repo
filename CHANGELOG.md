@@ -1,5 +1,8 @@
 # The GreenZone Changelog
 
+## 0.1.225
+- Incremental update
+
 ## 0.1.224
 - Fine-tunes fourth-place standings row and separator alignment.
 

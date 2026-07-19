@@ -3,9 +3,9 @@
     "Author": "Ninethirty77",
     "Name": "The Studium",
     "InternalName": "FCMetrics",
-    "AssemblyVersion": "0.1.224.0",
+    "AssemblyVersion": "0.1.225.0",
     "Description": "The Studium app is an essential companion app for all Studium Members.",
-    "Changelog": "GreenZone standings refinement:\n- Fine-tunes fourth-place row and separator alignment.",
+    "Changelog": "Incremental update",
     "ApplicableVersion": "any",
     "Tags": [
       "free company",
@@ -27,6 +27,6 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Ninethirty77/the-greenzone-repo/main/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Ninethirty77/the-greenzone-repo/main/latest.zip",
     "RepoUrl": "https://github.com/Ninethirty77/the-greenzone-repo",
-    "LastUpdate": "1784459483"
+    "LastUpdate": "1784464006"
   }
 ]
