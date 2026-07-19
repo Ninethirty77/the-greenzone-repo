@@ -1,5 +1,9 @@
 # The GreenZone Changelog
 
+## 0.1.222
+- Removes the settings UI and settings commands.
+- Keeps FC Chest Sync and Studium Community managed-on for active members.
+
 ## 0.1.221
 - Keeps compact overlay reward-area spacing consistent when no tier reward is earned.
 
