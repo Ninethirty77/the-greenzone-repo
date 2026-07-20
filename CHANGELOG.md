@@ -1,5 +1,8 @@
 # The GreenZone Changelog
 
+## 0.1.227
+- Updated plugin icon.
+
 ## 0.1.226
 - incramental update
 
