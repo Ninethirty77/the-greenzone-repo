@@ -1,5 +1,8 @@
 # The GreenZone Changelog
 
+## 0.1.228
+- Adds the Studium Rewards beta module.
+
 ## 0.1.227
 - Updated plugin icon.
 
