@@ -1,5 +1,8 @@
 # The GreenZone Changelog
 
+## 0.1.229
+- Improves Studium Rewards reliability and experience.
+
 ## 0.1.228
 - Adds the Studium Rewards beta module.
 
