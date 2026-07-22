@@ -1,5 +1,8 @@
 # The GreenZone Changelog
 
+## 0.1.230
+- Refines the Studium Rewards reveal experience.
+
 ## 0.1.229
 - Improves Studium Rewards reliability and experience.
 

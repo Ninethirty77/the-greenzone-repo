@@ -3,9 +3,9 @@
     "Author": "Ninethirty77",
     "Name": "The Studium",
     "InternalName": "FCMetrics",
-    "AssemblyVersion": "0.1.229.0",
+    "AssemblyVersion": "0.1.230.0",
     "Description": "The Studium app is an essential companion app for all Studium Members.",
-    "Changelog": "Improved Studium Rewards reliability and experience.",
+    "Changelog": "Refined the Studium Rewards reveal experience.",
     "ApplicableVersion": "any",
     "Tags": [
       "free company",
@@ -27,6 +27,6 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Ninethirty77/the-greenzone-repo/main/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Ninethirty77/the-greenzone-repo/main/latest.zip",
     "RepoUrl": "https://github.com/Ninethirty77/the-greenzone-repo",
-    "LastUpdate": "1784730003"
+    "LastUpdate": "1784733608"
   }
 ]
