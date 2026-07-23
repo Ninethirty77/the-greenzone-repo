@@ -1,5 +1,8 @@
 # The GreenZone Changelog
 
+## 0.1.231
+- Expands the Studium Rewards beta experience with live tier prize previews and a refined reveal.
+
 ## 0.1.230
 - Refines the Studium Rewards reveal experience.
 
