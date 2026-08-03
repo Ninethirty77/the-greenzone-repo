@@ -33,9 +33,10 @@ jobs:
           node <<'NODE'
           const fs = require("fs");
 
-          const week = process.env.WEEK.trim();
-          const baseText = process.env.BASE_COMPANY_CREDITS.replaceAll(",", "").trim();
-          const targetText = process.env.TARGET_COMPANY_CREDITS.replaceAll(",", "").trim();
+          const weekMatch = process.env.WEEK.trim().match(/^week\s+([1-9]\d*)$/i);
+          const week = weekMatch ? `Week ${weekMatch[1]}` : process.env.WEEK.trim();
+          const baseText = process.env.BASE_COMPANY_CREDITS.replace(/[,\s]/g, "");
+          const targetText = process.env.TARGET_COMPANY_CREDITS.replace(/[,\s]/g, "");
           const baseCompanyCredits = Number(baseText);
           const targetCompanyCredits = Number(targetText);
 
