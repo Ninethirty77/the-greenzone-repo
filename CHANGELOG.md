@@ -1,5 +1,8 @@
 # The GreenZone Changelog
 
+## 0.1.232
+- Added the Studium Events module with live Discord event details in the hub and overlay.
+
 ## 0.1.231
 - Expands the Studium Rewards beta experience with live tier prize previews and a refined reveal.
 
