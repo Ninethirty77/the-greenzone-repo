@@ -1,5 +1,8 @@
 # The GreenZone Changelog
 
+## 0.1.233
+- Improved Events and Rewards connectivity.
+
 ## 0.1.232
 - Added the Studium Events module with live Discord event details in the hub and overlay.
 
