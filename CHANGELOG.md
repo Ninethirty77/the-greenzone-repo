@@ -1,5 +1,8 @@
 # The GreenZone Changelog
 
+## 0.1.234
+- Expanded Studium Events and added weekly Rewards re-spins.
+
 ## 0.1.233
 - Improved Events and Rewards connectivity.
 
