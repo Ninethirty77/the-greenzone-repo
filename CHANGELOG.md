@@ -1,5 +1,8 @@
 # The GreenZone Changelog
 
+## 0.1.236
+- Improved the update-required warning in Studium Rewards.
+
 ## 0.1.235
 - Added Setzer's Fate weekly 100,000,000 Gil jackpot attempts.
 - Added streak rewards and refreshed Rewards presentation.
