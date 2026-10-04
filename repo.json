@@ -3,9 +3,9 @@
     "Author": "Ninethirty77",
     "Name": "The Studium",
     "InternalName": "FCMetrics",
-    "AssemblyVersion": "0.1.234.0",
+    "AssemblyVersion": "0.1.235.0",
     "Description": "The Studium app is an essential companion app for all Studium Members.",
-    "Changelog": "Expanded Studium Events and added weekly Rewards re-spins.",
+    "Changelog": "Adds Setzer's Fate weekly jackpot attempts, streak rewards and refreshed Rewards presentation, Gil prize support and seven-day collection deadlines, plus improved Events announcements and overlay navigation.",
     "ApplicableVersion": "any",
     "Tags": [
       "free company",
@@ -27,6 +27,6 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Ninethirty77/the-greenzone-repo/main/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Ninethirty77/the-greenzone-repo/main/latest.zip",
     "RepoUrl": "https://github.com/Ninethirty77/the-greenzone-repo",
-    "LastUpdate": "1787114563"
+    "LastUpdate": "1791133866"
   }
 ]

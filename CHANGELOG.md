@@ -1,5 +1,11 @@
 # The GreenZone Changelog
 
+## 0.1.235
+- Added Setzer's Fate weekly 100,000,000 Gil jackpot attempts.
+- Added streak rewards and refreshed Rewards presentation.
+- Added Gil prize support and seven-day tier-prize collection deadlines.
+- Improved Events announcements and overlay navigation.
+
 ## 0.1.234
 - Expanded Studium Events and added weekly Rewards re-spins.
 
