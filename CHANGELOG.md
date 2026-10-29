@@ -1,5 +1,9 @@
 # The GreenZone Changelog
 
+## 0.1.239
+- Supports one food pack and one gemdraught pack together in one order, with verified shared withdrawals and separate Artisan recipe steps.
+- Fixes yield-based progress and timer completion; existing gear and single-pack workflows are preserved.
+
 ## 0.1.238
 - Supports fixed 30-item consumable packs in Gear Orders using the shared withdrawal and crafting workflow.
 - Uses recipe output yields for correct material totals and Artisan craft counts; existing gear orders and manual crafting are unchanged.
