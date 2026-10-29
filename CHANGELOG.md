@@ -1,5 +1,9 @@
 # The GreenZone Changelog
 
+## 0.1.237
+- Adds Gear Orders, shared crafting tabs and secure remembered sign-in.
+- Integrates order notifications through Studium Porter and hides the overlay until character login.
+
 ## 0.1.236
 - Improved the update-required warning in Studium Rewards.
 
