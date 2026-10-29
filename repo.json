@@ -3,9 +3,9 @@
     "Author": "Ninethirty77",
     "Name": "The Studium",
     "InternalName": "FCMetrics",
-    "AssemblyVersion": "0.1.237.0",
+    "AssemblyVersion": "0.1.238.0",
     "Description": "The Studium app is an essential companion app for all Studium Members.",
-    "Changelog": "Adds Gear Orders and shared crafting tabs, secure remembered sign-in, and order notifications through Studium Porter. Hides the overlay until character login.",
+    "Changelog": "Supports fixed 30-item consumable pack orders using the existing FC chest withdrawal and Artisan crafting workflow. Correctly accounts for recipe yields and preserves existing gear orders and manual crafting.",
     "ApplicableVersion": "any",
     "Tags": [
       "free company",
@@ -27,6 +27,6 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Ninethirty77/the-greenzone-repo/main/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Ninethirty77/the-greenzone-repo/main/latest.zip",
     "RepoUrl": "https://github.com/Ninethirty77/the-greenzone-repo",
-    "LastUpdate": "1793253987"
+    "LastUpdate": "1793274233"
   }
 ]

@@ -1,5 +1,9 @@
 # The GreenZone Changelog
 
+## 0.1.238
+- Supports fixed 30-item consumable packs in Gear Orders using the shared withdrawal and crafting workflow.
+- Uses recipe output yields for correct material totals and Artisan craft counts; existing gear orders and manual crafting are unchanged.
+
 ## 0.1.237
 - Adds Gear Orders, shared crafting tabs and secure remembered sign-in.
 - Integrates order notifications through Studium Porter and hides the overlay until character login.
